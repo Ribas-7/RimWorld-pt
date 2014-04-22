@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Hydroponics.label>Hidropônicas</Hydroponics.label>
+	<Hydroponics.description>Permite construir mesas hidropônicas para cultivar rapidamente culturas dentro de um ambiente fechado.</Hydroponics.description>
+	
+	<PneumaticPicks.label>Picaretas Pneumáticas</PneumaticPicks.label>
+	<PneumaticPicks.description>As picaretas dos minerados são 20% mais eficazes.</PneumaticPicks.description>
+	
+	<Stonecutting.label>Lapidação</Stonecutting.label>
+	<Stonecutting.description>Você pode construir mesas de lapidação, que permitem refinar escombros de rocha em blocos de pedras, que podem ser usados ​​para as construções.</Stonecutting.description>
+	
+	<NutrientResynthesis.label>Ressíntese Nutritiva</NutrientResynthesis.label>
+	<NutrientResynthesis.description>Dispensador de pasta nutritiva irá consumir 10% menos ingredientes por refeição produzida.</NutrientResynthesis.description>
+	
+	<GunTurretCooling.label>Cooler para Artilharia</GunTurretCooling.label>
+	<GunTurretCooling.description>A Peça de Artilharia irá disparar 4 tiros em sequência ao invés de 3.</GunTurretCooling.description>
+	
+	<CarpetMaking.label>Encarpetamento</CarpetMaking.label>
+	<CarpetMaking.description>Permitirá colonos construírem carpetes para aumentar a qualidade de seu ambiente.</CarpetMaking.description>
+	
+	
+	<FearTech1.label>Tecnologia de Terror 1</FearTech1.label>
+	<FearTech1.description>Pesquisar novas maneiras de inspirar medo.</FearTech1.description>
+	<FearTech1.descriptionDiscovered>Agora você pode construir gaiolas da morte para exibir os cadáveres de inimigos mortos e colonos encrenqueiros. Aqueles que olharem para eles, sentirão medo intenso e desgosto. Este é um antigo, bruto, mas poderoso dispositivo.</FearTech1.descriptionDiscovered>
+	
+	
+	</LanguageData>

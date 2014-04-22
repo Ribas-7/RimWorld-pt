@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<CookMealSimple.label>Cozinhar refeição simples</CookMealSimple.label>
+	<CookMealSimple.description>Cozinhe uma refeição simples com um ingrediente.</CookMealSimple.description>
+	<CookMealSimple.jobString>Cozinhando refeição simples.</CookMealSimple.jobString>
+	
+	<CookMealFine.label>Cozinhar refeição requintada</CookMealFine.label>
+	<CookMealFine.description>Cozinhe uma refeição um pouco complexa à partir de uma combinação de ingredientes, como carne crua e vegetais crus.</CookMealFine.description>
+	<CookMealFine.jobString>Cozinhando refeição requintada.</CookMealFine.jobString>
+	
+	<CookMealLavish.label>Cozinhar refeição exuberante</CookMealLavish.label>
+	<CookMealLavish.description>Cozinhe uma refeição muito complexa à partir de uma combinação de ingredientes, como carne crua e vegetais crus. Muito dos ingredientes são desperdiçados.</CookMealLavish.description>
+	<CookMealLavish.jobString>Cozinhando refeição exuberante.</CookMealLavish.jobString>
+	
+	
+	
+</LanguageData>

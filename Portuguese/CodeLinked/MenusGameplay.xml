@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Dark>Escuro</Dark>
+  <Lit>Iluminado</Lit>
+  <LitBrightly>Bem iluminado</LitBrightly>
+
+  <WorkTab>Trabalho</WorkTab>
+  <ManualPriorities>Prioridade manual</ManualPriorities>
+  <HigherPriority>Alta prioridade</HigherPriority>
+  <LowerPriority>Baixa prioridade</LowerPriority>
+  <RelevantSkills>Habilidades relevantes: {0}\nMédia das habilidades relevantes: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Clique para pular para:</ClickToJumpTo>
+  <CannotDoThisWork>{0} Não pode fazer este tipo de trabalho.</CannotDoThisWork>
+  <NoneBrackets>(nenhum)</NoneBrackets>
+  
+  
+  <FactionsTab>Facções</FactionsTab>
+  <Hostile>Hostil</Hostile>
+  <HostileTo>Inimigo de {0}</HostileTo>
+  <CurrentGoodwill>Afeição atual com esta facção (-100 to 100).</CurrentGoodwill>
+
+
+  <SkillMax>MAX</SkillMax>
+  
+  
+</LanguageData>

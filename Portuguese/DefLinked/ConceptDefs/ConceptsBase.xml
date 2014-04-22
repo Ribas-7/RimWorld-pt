@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>        
+<LanguageData>
+	
+	<CameraDolly.helpTexts>
+		<li>Mova a câmera clicando e arrastando o BOTÃO DO MEIO DO MOUSE ou as teclas WASD.</li>
+	</CameraDolly.helpTexts>
+	
+	
+	<Rescuing.helpTexts>
+		<li>Para resgatar um colono ferido, selecione um colono saudável e use o botão direito do mouse sobre o ferido.</li>
+	</Rescuing.helpTexts>
+	
+	<Capturing.helpTexts>
+		<li>Um inimigo foi incapacitado. Você pode capturá-lo!</li>
+		<li>Para capturar, selecione um colono, clique com o botão direito sobre o inimigo incapacitado, e selecione Capturar.\n\nVocê precisará de uma cama extra configurada para uso de prisioneiro.</li>
+	</Capturing.helpTexts>
+	
+	<Drafting.helpTexts>
+		<li>Para controlar os colonos diretamente para um combate, aliste-os, selecionando-os e apertando o botão de Alistar.</li>
+		<li>Um colono alistado irá fazer apenas o que você ordenar, e só pode tomar ações de combate. Aqueles carregando armas irão utilizá-las quando possível.\n\nNão deixe os colonos alistados por muito tempo, eles irão morrer de fome e ficarão infelizes.</li>
+	</Drafting.helpTexts>
+	
+	<Forbidding.helpTexts>
+		<li>Os colonos não irá interagir com os itens marcados como PROIBIDO.\n\nSelecione os alimentos e o metal perto do seu local de pouso e pressione F para PERMITIR eles.</li>
+	</Forbidding.helpTexts>
+	
+	<BillsTab.helpTexts>
+      <li>Para fazer com que os colonos trabalhem em uma mesa, selecione a mesa e abra a guia Tarefas. Aqui, você pode dizer o que irão cozinhar para as refeições, atividades artesanais, e as criaturas para o açougueiro</li>
+    </BillsTab.helpTexts>
+	
+	<GrowingFood.helpTexts>
+		<li>Para o cultivo de alimentos, coloque ZONAS DE CULTIVO utilizando o menu Arquiteto.\n\nElas só podem ser colocadas em solo fértil.</li>
+	</GrowingFood.helpTexts>
+	
+	<BuildOrbitalTradeBeacon.helpTexts>
+		<li>Dica:\n\nPara enviar itens ou prata para os comerciantes orbitais, é preciso construir um COMUNICADOR ORBITAL ao ar livre e colocar um estoque de itens próximo a ele.</li>
+	</BuildOrbitalTradeBeacon.helpTexts>
+	
+	<ReadingAlerts.helpTexts>
+		<li>Se você já não tem certeza do que fazer, verifique os ALERTAS a direita da tela.</li>
+	</ReadingAlerts.helpTexts>
+	
+	<CameraZoom.helpTexts>
+		<li>Para aumentar ou diminuir o zoom da tela, use a RODA DO MOUSE ou as teclas T e G. </li>
+	</CameraZoom.helpTexts>
+	
+	<TimeControls.helpTexts>
+		<li>Você pode acelerar, desacelerar ou parar o tempo usando os controles de tempo no canto inferior direito.</li>
+	</TimeControls.helpTexts>
+	
+	<PrisonerTab.helpTexts>
+		<li>Selecione um prisioneiro e procure a aba 'Prisioneiro' para definir como eles serão tratados.\n\nVocê vai precisar de um colono com o trabalho de Guarda para cuidar do prisioneiro.</li>
+	</PrisonerTab.helpTexts>
+	
+	<Mining.helpTexts>
+		<li>Você pode designar onde minerar usando o MENU ARQUITETO.\n\nWMinerar produz METAL.</li>
+	</Mining.helpTexts>
+	
+	<WorkOverview.helpTexts>
+		<li>Você pode definir as configurações de trabalho de cada colono na visão geral no canto inferior direito da tela.\n\nEles vão sempre fazer o trabalho com maior prioridade que eles possam encontrar.</li>
+		<li>Os colonos farão trabalhos cujo eles não estão atribuídos.\n\nSe ninguém tem um certo tipo de trabalho atribuído, ele nunca será feito!</li>
+	</WorkOverview.helpTexts>
+	
+	<EquippingWeapons.helpTexts>
+		<li>Para equipar uma arma ao colono, selecione o colono e, em seguida, clique com botão direito sobre a arma.\n\nHá armas no chão perto de seu local de início.</li>
+	</EquippingWeapons.helpTexts>
+	
+	<HomeRegion.helpTexts>
+		<li>REGIÃO DE ABRIGO indicam a seus colonos quais áreas para limpar e onde irão extinguir os incêndios.\n\nDefina a REGIÃO DE ABRIGO na categoria de zonas, no menu Arquiteto</li>
+	</HomeRegion.helpTexts>
+	
+	<StorageTabCategories.helpTexts>
+			<li>Na aba de armazenamento, você pode expandir as categorias para permitir ou negar itens específicos. Clique nos triângulos à esquerda dos nomes da categoria do item.</li>
+	</StorageTabCategories.helpTexts>
+	
+	<StorageTab.helpTexts>
+			<li>Você pode configurar os estoques, selecionando-os e abrindo a aba ARMAZENAMENTO, acima do painel no canto inferior esquerdo.</li>
+	</StorageTab.helpTexts>
+	
+	<SpacePause.helpTexts>
+			<li>Aperte BARRA DE ESPAÇO para pausar ou retomar o jogo.\n\nVocê pode dar ordens durante a pausa.\n\nLembre-se disso, se as coisas ficam agitadas, é só apertar BARRA DE ESPAÇO!</li>
+	</SpacePause.helpTexts>
+	
+	<RightClickClearLetter.helpTexts>
+		<li>Você pode rapidamente descartar cartas recebidas, clicando com o botão direito sobre elas.</li>
+	</RightClickClearLetter.helpTexts>
+	
+	<OpeningComms.helpTexts>
+		<li>Para comunicar-se, selecione um colono e clique com o botão direito do mouse no comunicador.</li>
+	</OpeningComms.helpTexts>
+	
+	<StoragePriority.helpTexts>
+		<li>Você pode alterar a PRIORIDADE de armazenamento. Os Colonos irão encher o armazenamento de alta prioridade primeiramente.</li>
+	</StoragePriority.helpTexts>
+	
+	<Wiki.helpTexts>
+			<li>Você pode procurar informações no WIKI.\n\nUse o link na parte direita inferior da tela.</li>
+	</Wiki.helpTexts>
+	
+	<TradeGoodsMustBeNearBeacon.helpTexts>
+      <li>Você só pode vender os itens que estão perto de um comunicador orbital, e fora de áreas com telhado.</li>
+    </TradeGoodsMustBeNearBeacon.helpTexts>
+	
+</LanguageData>

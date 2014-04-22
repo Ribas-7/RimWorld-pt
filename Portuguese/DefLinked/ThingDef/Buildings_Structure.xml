@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<DoorPowered.label>Porta automática</DoorPowered.label>
+	<DoorPowered.description>Sela salas separadas. Automáticas permitem que as pessoas se movem através da porta, sem diminuir a velocidade.</DoorPowered.description>
+	
+	<DoorSimple.label>Porta simples</DoorSimple.label>
+	<DoorSimple.description>Sela salas separadas. Devem ser manualmente fechadas e abertas, diminuindo a velocidade.</DoorSimple.description>
+	
+	<WallMetal.label>Parede de metal</WallMetal.label>
+	<WallMetal.description>Uma parede feita de metal.</WallMetal.description>
+	<WallStone.label>Parede de pedra</WallStone.label>
+	<WallStone.description>Uma parede feita de pedra. Isto dura por anos. Ela não pode ser queimada e nem transmite energia.</WallStone.description>
+	
+	<PowerConduit.label>Condutor elétrico</PowerConduit.label>
+	<PowerConduit.description>Cabo de condução elétrica.</PowerConduit.description>
+	
+	<Sandbags.label>Saco de areia</Sandbags.label>
+	<Sandbags.description>Protege contra tiros de armas.</Sandbags.description>
+	
+
+</LanguageData>

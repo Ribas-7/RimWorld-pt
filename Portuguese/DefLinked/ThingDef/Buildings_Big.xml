@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Hopper.label>Colhedor</Hopper.label>
+	<Hopper.description>Segura recursos para o uso das máquinas, como dispensadores de pasta nutritiva.</Hopper.description>
+	<TurretGun.label>Peça de artilharia improvisada</TurretGun.label>
+	<TurretGun.description>Artilharia improvisada que dispara automaticamente nos inimigos próximos. Explode quando danificada.</TurretGun.description>
+	<CommsConsole.label>Comunicador</CommsConsole.label>
+	<CommsConsole.description>Comunique-se com naves próximas, para negociação e comércio.</CommsConsole.description>
+	<NutrientPasteDispenser.label>Dispensador de pasta</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Sintetiza pasta nutritiva à partir de matérias-primas orgânicas.</NutrientPasteDispenser.description>
+	<Grave.label>Cova</Grave.label>
+	<Grave.description>Coloque os mortos em túmulos para dar-lhes um digno lugar de descanso final.</Grave.description>
+	<GibbetCage.label>Gaiola da morte</GibbetCage.label>
+	<GibbetCage.description>Coloque cadáveres nas gaoilas para exibição. Elas inspiram angústia e medo.</GibbetCage.description>
+	<SolarGenerator.label>Gerador solar</SolarGenerator.label>
+	<SolarGenerator.description>Produz eletricidade à partir da luz solar. Não funciona no escuro.</SolarGenerator.description>
+	<GeothermalGenerator.label>Gerador Geotérmico</GeothermalGenerator.label>
+	<GeothermalGenerator.description>Produz eletricidade à partir de gêiseres de vapor geotérmicos. Deve ser colocado em um gêiser.</GeothermalGenerator.description>
+	<Battery.label>Bateria</Battery.label>
+	<Battery.description>Armazena eletricidade quando há excesso de energia e produz quando não há. Aviso: As baterias tendem a explodir quando aquecidas ou molhadas.</Battery.description>
+
+
+</LanguageData>

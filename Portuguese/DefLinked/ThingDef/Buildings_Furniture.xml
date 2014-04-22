@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<SleepingSpot.label>Saco de dormir</SleepingSpot.label>
+	<SleepingSpot.description>Designa um ponto no chão, onde os colonos dormirão. Nada confortável. Eficácia de descanso: 8/10</SleepingSpot.description>
+
+	<Bed.label>Cama</Bed.label>
+    <Bed.description>Um colchão confortável com lençóis em uma moldura para descansar. Eficácia de descanso: 10/10</Bed.description>
+ 
+    <TableButcher.label>Mesa de açougueiro</TableButcher.label>
+    <TableButcher.description>Uma mesa pesada para fatiar criaturas mortas em pedaços de carne crua.</TableButcher.description>
+
+	<CookStove.label>Fogão</CookStove.label>
+    <CookStove.description>Um fogão simples com bancadas unidas para preparar as refeições com ingredientes simples.</CookStove.description>
+    
+    <TableStonecutter.label>Mesa de lapidação</TableStonecutter.label>
+    <TableStonecutter.description>Uma mesa de trabalho equipada para cortar pedras brutas em blocos utilizáveis.</TableStonecutter.description>
+    
+    <HydroponicsBasin.label>Base hidropônica</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Para o cultivo de alimentos. Bases hidropônicas aceleram o desenvolvimento das plantas rapidamente. Sem eletricidade, as plantas morrerão.</HydroponicsBasin.description>
+
+	<PlantPot.label>Vaso de planta</PlantPot.label>
+	<PlantPot.description>Culvite plantas decorativas neste vaso.</PlantPot.description>
+
+	<ResearchBench.label>Bancada de pesquisas</ResearchBench.label>
+	<ResearchBench.description>Pesquisadores trabalham aqui para descobrir coisas novas.</ResearchBench.description>
+
+	<EquipmentRack.label>Prateleira</EquipmentRack.label>
+	<EquipmentRack.description>Colonos transportam os equipamentos aqui para armazenamento.</EquipmentRack.description>
+
+	<OrbitalTradeBeacon.label>Comunicador orbital</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Necessário para negociações orbitais. Você só pode vender produtos que estão perto de um comunicador orbital e que não esteja sob um telhado. Os Comerciantes orbitais também irão descarregar os recursos perto deste dispositivo.</OrbitalTradeBeacon.description>
+ 
+	<Chair.label>Cadeira</Chair.label>
+	<Chair.description>Pessoas sentam aqui.</Chair.description>
+
+	<TableShort.label>Mesa (curta)</TableShort.label>
+	<TableShort.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableShort.description>
+
+	<TableLong.label>Mesa (longa)</TableLong.label>
+	<TableLong.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableLong.description>
+
+	<StandingLamp.label>Lâmpada vertical</StandingLamp.label>
+	<StandingLamp.description>Uma lâmpada com suporte para iluminar o ambiente.</StandingLamp.description>
+
+	<SunLamp.label>Lâmpada solar</SunLamp.label>
+	<SunLamp.description>Ilumina uma área o suficiente para o cultivo.</SunLamp.description>
+	
+</LanguageData>

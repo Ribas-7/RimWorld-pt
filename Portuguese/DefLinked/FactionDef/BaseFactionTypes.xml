@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Colony.label>Colônia</Colony.label>
+    <Colony.description>Sua própria comunidade.</Colony.description>
+	
+	<Spacer.label>Viajante Espacial</Spacer.label>
+    <Spacer.description>Pessoas de lugares distantes do espaço</Spacer.description>
+	
+	<Outlander.label>Cidade Forasteira</Outlander.label>
+    <Outlander.description>Uma pequena comunidade de sobreviventes.\n\nEssas pessoas já vivem aqui por décadas. Eles perderam a maior parte da tecnologia que os trouxe aqui, e geralmente trabalham com ferramentas mecânicas simples e estruturas básicas, e defendem-se com armas de pólvora avançada. \n\nNão potencialmente agressivos e nem fracos, eles estão preocupados com as questões práticas do comércio, confiança e sobrevivência.</Outlander.description>
+	
+	<Pirate.label>Piratas</Pirate.label>
+    <Pirate.description>Uma gangue de bandidos.\n\nPiratas não semeiam, eles não constroem, e eles raramente comercializam. Eles enriquecem principalmente invadindo e roubando os grupos mais produtivos na área.\n\nO seu nível de tecnologia depende principalmente do que eles conseguiram roubar recentemente. Eles carregam armas de pólvora, embora os mais afortunados podem ter armas avançadas de energia, e alguns apenas gostariam de esfaquear as pessoas de perto.</Pirate.description>
+	
+	<Tribal.label>Membros Tribais</Tribal.label>
+    <Tribal.description>Essas pessoas já estão aqui há muito tempo. Talvez seus antepassados ​​caíram aqui há mil anos atrás. Talvez eles sobreviveram alguns cataclismos que destruiu a civilização tecnológica aqui. Em qualquer caso, as tribos são principalmente as pessoas nômades que vivem da terra usando ferramentas primitivas e armas.\n\nAlgumas tribos são mais agressivas do que outras. Muitos são abertos ao comércio e alianças, mesmo com povos estranhos como vocês. A estreita cooperação ou recrutamento, será muito difícil por causa da grande diferença social, tecnológica e linguística entre as tribos e você.\n\nApesar da sua fraqueza tecnológica aparente, as tribos podem ser perigosos inimigos ou aliados valiosos, por causa de sua habilidade de guerra com baixa tecnologia, seus números e sua resistência.</Tribal.description>
+	
+	
+	
+	
+	
+</LanguageData>

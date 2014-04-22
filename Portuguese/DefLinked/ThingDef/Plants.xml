@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<PlantPotato.label>Planta de batata</PlantPotato.label>
+	<PlantPotato.description>Um tubérculo simples e altamente nutritivo. Cresce bem em solos relativamente pobres.</PlantPotato.description>
+
+	<PlantStrawberry.label>Morangueiro</PlantStrawberry.label>
+	<PlantStrawberry.description>Uma fruta frágil, mas saborosa. Deliciosa mesmo quando crua, ela precisa de um solo rico para crescer adequadamente.</PlantStrawberry.description>
+
+	<PlantRose.label>Roseira</PlantRose.label>
+	<PlantRose.description>Uma linda flor cultivada.</PlantRose.description>
+ 
+	<PlantDaylily.label>Lírio-de-um-dia</PlantDaylily.label>
+	<PlantDaylily.description>Uma linda flor cultivada.</PlantDaylily.description>
+ 
+	<PlantAgave.label>Agave</PlantAgave.label>
+	<PlantAgave.description>Uma planta de grandes folhas do deserto, com flores e talos comestíveis.</PlantAgave.description>
+ 
+	<PlantRaspberry.label>Framboeseira</PlantRaspberry.label>
+	<PlantRaspberry.description>Planta arbustiva com deliciosas frutinhas vermelhas.</PlantRaspberry.description>
+ 
+	<PlantBush.label>Arbusto</PlantBush.label>
+	<PlantBush.description>Arbusto curto.</PlantBush.description>
+ 
+	<PlantPovertyGrass.label>Erva daninha</PlantPovertyGrass.label>
+	<PlantPovertyGrass.description>Uma árdua grama selvagem. Cresce em qualquer lugar onde há um pouco de luz e um solo minimamente fértil.</PlantPovertyGrass.description>
+ 
+	<PlantDandelion.label>Dente-de-leão</PlantDandelion.label>
+	<PlantDandelion.description>Uma pequena flor comum. Embora muitas vezes é considerada uma erva daninha por causa de sua fecundidade, é agradável de se olhar.</PlantDandelion.description>
+ 
+	<PlantSaguaroCactus.label>Cactos Saguaro</PlantSaguaroCactus.label>
+	<PlantSaguaroCactus.description>Um grande cacto nativo para ambientes áridos da Terra.</PlantSaguaroCactus.description>
+ 
+	<PlantPincushionCactus.label>Cactus Alfinete</PlantPincushionCactus.label>
+	<PlantPincushionCactus.description>Um Cactos pequeno, assim chamado porque se assemelha a uma almofada de alfinetes.</PlantPincushionCactus.description>
+	
+	
+	
+</LanguageData>

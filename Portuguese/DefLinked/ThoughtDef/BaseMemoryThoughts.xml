@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AteRawFood.label>Comeu alimentos crus</AteRawFood.label>
+	<AteRawFood.description>Eu tive que comer alimentos crus. Não podemos cozinhá-los, ou pelo menos sintetizar um pouco de pasta nutritiva?</AteRawFood.description>
+	
+	<AteNutrientPasteMeal.label>Comeu pasta nutritiva</AteNutrientPasteMeal.label>
+	<AteNutrientPasteMeal.description>Eu tive que comer pasta nutritiva. Eu sei que me mantém vivo, mas ninguém quer engolir essa gororoba.</AteNutrientPasteMeal.description>
+	
+	<AteFineMeal.label>Comeu refeição requintada</AteFineMeal.label>
+	<AteFineMeal.description>Eu comi uma refeição requintada realmente saborosa. Yum!</AteFineMeal.description>
+	
+	<AteLavishMeal.label>Comeu refeição exuberante</AteLavishMeal.label>
+	<AteLavishMeal.description>Essa refeição luxuriante foi incrível. Ela alimentou o meu corpo e a minha alma.</AteLavishMeal.description>
+	
+	<AteHumanoidMeatDirect.label>Canibalismo (crua)</AteHumanoidMeatDirect.label>
+	<AteHumanoidMeatDirect.description>Eu comi a carne de outro humano, crua, como um animal. Isto é um pesadelo.</AteHumanoidMeatDirect.description>
+	
+	<AteHumanoidMeatAsIngredient.label>Canibalismo (cozida)</AteHumanoidMeatAsIngredient.label>
+	<AteHumanoidMeatAsIngredient.description>Eu comi uma refeição à base de carne de outro humano. Isto é horrível.</AteHumanoidMeatAsIngredient.description>
+	
+	<ButcheredHumanoidCorpse.label>Fatiou carne humana</ButcheredHumanoidCorpse.label>
+	<ButcheredHumanoidCorpse.description>Eu fatiei uma pessoa como se fosse um animal.</ButcheredHumanoidCorpse.description>
+ 
+	<ObservedLayingCorpse.label>Observou um corpo morto</ObservedLayingCorpse.label>
+	<ObservedLayingCorpse.description>Eu vi um corpo morto jogado no chão.</ObservedLayingCorpse.description>
+	
+	<ObservedGibbetCageEmpty.label>Observou a gaiola vazia</ObservedGibbetCageEmpty.label>
+	<ObservedGibbetCageEmpty.description>Essas gaoiolas da morte parecem tão cruéis.</ObservedGibbetCageEmpty.description>
+ 
+	<ObservedGibbetCageFullStranger.label>Observou a gaiola com corpo morto</ObservedGibbetCageFullStranger.label>
+	<ObservedGibbetCageFullStranger.description>Eu vi um estranho morto em exposição na gaiola a morte. Que lugar cruel.</ObservedGibbetCageFullStranger.description>
+ 
+	<ObservedGibbetCageFullColonist.label>Observou um colono morto na gaiola</ObservedGibbetCageFullColonist.label>
+	<ObservedGibbetCageFullColonist.description>Eu vi um dos nossos, morto na gaiola. Eu falei com essa pessoa. Este lugar é terrível.</ObservedGibbetCageFullColonist.description>
+ 
+	<NewColonyOptimism.label>Otimista com a nova colônia</NewColonyOptimism.label>
+	<NewColonyOptimism.description>Nós acabamos de desembarcar aqui. É uma situação difícil, mas estou animado para fundar uma nova colônia.</NewColonyOptimism.description>
+	
+	<NewColonyHope.label>Esperançoso(a) com a nova colônia</NewColonyHope.label>
+	<NewColonyHope.description>Eu estou me acostumando com isso, mas ainda é uma situação nova e emocionante. Espero que isso funcione...</NewColonyHope.description>
+ 
+	<SleptOutside.label>Dormiu ao relento</SleptOutside.label>
+	<SleptOutside.description>Eu tive que dormir ao ar livre, sem qualquer proteção contra os elementos.</SleptOutside.description>
+	
+	<SleptOnGround.label>Dormiu no chão</SleptOnGround.label>
+	<SleptOnGround.description>Eu dormi no chão feito um animal.</SleptOnGround.description>
+	
+	<BattleWounded.label>Ferido</BattleWounded.label>
+	<BattleWounded.description>Esse é o meu sangue! Eu fui ferido em uma luta!</BattleWounded.description>
+	
+	<KnowPrisonerBeaten.label>Prisioneiro foi espancado</KnowPrisonerBeaten.label>
+	<KnowPrisonerBeaten.description>Eles estão espancando o prisioneiro.</KnowPrisonerBeaten.description>
+	
+	<KnowPrisonerSold.label>Prisioneiro foi vendido</KnowPrisonerSold.label>
+	<KnowPrisonerSold.description>Esta colônia vendeu um prisioneiro feito um escravo. Esse é um pensamento preocupante.</KnowPrisonerSold.description>
+	
+	<KnowPrisonerExecuted.label>Prisioneiro executado</KnowPrisonerExecuted.label>
+	<KnowPrisonerExecuted.description>Um prisioneiro foi executado a sangue frio. Esta colônia parece pior a cada dia.</KnowPrisonerExecuted.description>
+	
+	<WitnessedDeath.label>Observou a morte de alguém</WitnessedDeath.label>
+	<WitnessedDeath.description>Eu vi alguém morrer. Ele estava vivo em um momento, e morto no próximo.</WitnessedDeath.description>
+	
+	<PrisonerFriendlyChat.label>Convencido pelo guarda</PrisonerFriendlyChat.label>
+	<PrisonerFriendlyChat.description>O guarda e eu tivemos uma conversa sobre a colônia. Este parece ser um bom lugar...</PrisonerFriendlyChat.description>
+	
+	<PrisonerBeatenMild.label>Agredido pelo guarda</PrisonerBeatenMild.label>
+	<PrisonerBeatenMild.description>Esse guarda me agrediu. Ele não quebrou nada, mas, caramba, doeu.</PrisonerBeatenMild.description>
+	
+	<PrisonerBeatenVicious.label>Agredido violentamente pelo guarda</PrisonerBeatenVicious.label>
+	<PrisonerBeatenVicious.description>Esse guarda acabou de me agredir pra caralho. Eu poderia morrer por causa dessa surra...</PrisonerBeatenVicious.description>
+	
+	<SocialTalk.label>Teve uma conversa agradável</SocialTalk.label>
+	<SocialTalk.description>Eu apenas tive uma conversa agradável com alguém.</SocialTalk.description>
+
+</LanguageData>

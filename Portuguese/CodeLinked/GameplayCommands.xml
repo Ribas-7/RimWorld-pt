@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CommandDraftLabel>Alistar</CommandDraftLabel>
+  <CommandUndraftLabel>Desalistar</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Alternar para alistamento militar.\n\nPessoas alistadas recebem ordens e lutam. Eles não irão trabalhar, comer ou descansar.</CommandToggleDraftDesc>
+  <IsIncapped>{0} está incapacitado.</IsIncapped>
+
+  <CommandCancelConstructionLabel>Cancelar</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Cancelar esta construção.</CommandCancelConstructionDesc>
+
+  <CommandBedSetForPrisonersLabel>Configurar para prisioneiros</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Atribuir camas nesta sala para uso dos prisioneiros.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Configurar para colonos</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Atribuir camas nesta sala para uso dos colonos.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Alternar para modo de prisioneiro afeta toda a sala (sendo que os prisioneiros e os colonos não podem dormir na mesmo sala).\n\nEssas pessoas vão perder a posse de suas camas:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Alternando para o modo de colono afeta toda a sala (sendo que os prisioneiros e os colonos não podem dormir na mesmo sala).\n\nEssas pessoas vão perder a posse de suas camas:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Tem certeza de que quer fazer isso?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Comece a contagem regressiva para a detonação.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonar</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Renomear esta zona.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Renomear</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Ocultar/mostrar esta zona.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Ocultar</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Mostrar</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Deletar esta zona.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Deletar</CommandDeleteZoneLabel>
+  
+  
+</LanguageData>

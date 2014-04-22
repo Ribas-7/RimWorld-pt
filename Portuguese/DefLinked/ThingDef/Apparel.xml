@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Apparel_BasicShirt.label>Camiseta</Apparel_BasicShirt.label>
+	<Apparel_CollarShirt.label>Camisa</Apparel_CollarShirt.label>
+	<Apparel_Duster.label>Espanador</Apparel_Duster.label>
+	<Apparel_Jacket.label>Jaqueta</Apparel_Jacket.label>
+	<Apparel_VestPlate.label>Colete</Apparel_VestPlate.label>
+	<Apparel_PowerArmor.label>Couraça Fortificada</Apparel_PowerArmor.label>
+	<Apparel_TribalA.label>Vestes Tribal</Apparel_TribalA.label>
+
+</LanguageData>

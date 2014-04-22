@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- This is just example data. The default English data is in the xml.
+  
+  If you want to make another language, just write all the strings in all defs in this format:
+  
+  <defName.fieldName>Translation</defName.fieldName>
+  
+  To do other def types, make other directories under DefLinked named after the type of def you want to modify.
+  e.g. to modify the FactionDefs, make a folder called FactionDef and put your translations in it.
+  
+  For a full translation, you'll have to make a directory for every type of def with a player-visible string field (that's most of them).
+  -->
+
+	
+	<Silver.label>Prata</Silver.label>
+	<Metal.label>Metal</Metal.label>
+	<StoneBlocks.label>Blocos de pedra</StoneBlocks.label>
+	
+	<RawPotatoes.label>Batatas</RawPotatoes.label>
+	<RawBerries.label>Frutas</RawBerries.label>
+	<RawAgave.label>Agave</RawAgave.label>
+	
+	<Uranium.label>Urânio</Uranium.label>
+	<Medicine.label>Medicamento</Medicine.label>
+	<Shells.label>Cartuchos</Shells.label>
+	<Missiles.label>Mísseis</Missiles.label>
+	
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Namen relativ gleich, weil es halt namen sind-->
+
+	<Callie.label>Callie Calafrio Clássico</Callie.label> 
+	<Callie.description>Callie é uma versão menos agressiva de sua irmã Cassandra. Ela é boa para jogadores iniciantes.</Callie.description>
+	<Callie.quotation>Começa muito desanimado, mas fica realmente emocionante no final!</Callie.quotation>
+	
+	<Cassandra.label>Cassandra Clássico</Cassandra.label>
+    <Cassandra.description>Cassandra cria eventos da história, em uma curva continuamente crescente de desafios e tensão.</Cassandra.description>
+    <Cassandra.quotation>A essência da boa narrativa é a progressão perfeita de intensificar a luta.</Cassandra.quotation>
+	
+	<Phoebe.label>Phoebe Amigável</Phoebe.label>
+	<Phoebe.description>Phoebe não quer magoar ninguém. Ela só quer um conto relaxante sobre pessoas construindo uma colônia. Então, ela será muito amigável.</Phoebe.description>
+	<Phoebe.quotation>Não podemos todos ficar juntos? Eu não quero uma história que me faça sentir tensa o tempo todo. Vamos fazer uma sobre amizade e esperança.</Phoebe.quotation>
+	
+	<Randy.label>Randy Aleatório</Randy.label>
+	<Randy.description>O Randy não segue as regras. Ele vai gerar eventos aleatórios, e ele não se importa se irá ser uma história de triunfo ou desespero total. Tudo é drama para ele.</Randy.description>
+	<Randy.quotation>O mundo é aleatório, cara. Histórias devem ser também! Ei, você tem fogo?</Randy.quotation>
+	
+	<Cleopatra.label>Cleopatra Árdua Clássico</Cleopatra.label>
+    <Cleopatra.description>A prima menos indulgente de Cassandra clássico.</Cleopatra.description>
+    <Cleopatra.quotation>As profundezas da natureza humana só podem ser vislumbradas através de uma lente de sofrimento.</Cleopatra.quotation>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Ir para o local</JumpToLocation>
+
+  <RelationsBrokenDown>Relações com {0} foram quebradas. Eles agora são hostis em relação a você.</RelationsBrokenDown>
+  <RelationsWarmed>Relações com {0} foram fortificadas. Eles já não são hostis em relação a você.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Devido às suas ações de aprisionar {0}, {1} tornou-se seu inimigo agora.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Afeição da colônia</ColonyGoodwill>
+  <Neutral>Neutra</Neutral>
+
+  <ShortCircuitRain>{0} sofreu curto-circuito na chuva e começou a incendiar.</ShortCircuitRain>
+  <AreaRevealed>Uma nova área foi revelada.</AreaRevealed>
+
+  <RoofCollapsed>O telhado desabou devido a estar muito longe de qualquer suporte para erguê-lo.</RoofCollapsed>
+  <TheseThingsCrushed>Essas coisas foram esmagadas:</TheseThingsCrushed>
+  <NothingCrushed>Nada foi esmagado.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} teve uma depressão nervosa e está para cometer uma chacina.</MentalBreakRampage>
+  <MentalBreakDaze>{0} sucumbiu e está vagando por aí confuso.</MentalBreakDaze>
+  <MentalBreakLeave>{0} desistiu e está deixando a colônia.</MentalBreakLeave>
+
+  <RecruitSuccess>{0} recrutou com sucesso {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>{0} falhou para recrutar {1} ({2} chance).</RecruitFail>
+  
+  
+</LanguageData>

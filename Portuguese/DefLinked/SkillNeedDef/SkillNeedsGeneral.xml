@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<CookTime.description>Cozinha refeições em {0}% do tempo normal.</CookTime.description>
+	<ButcheryTime.description>Fatia criaturas em {0}% do tempo normal.</ButcheryTime.description>
+	<ButcheryEfficiency.description>Produz {0}% do normal de carne quando fatiada.</ButcheryEfficiency.description>
+	
+	<StonecuttingTime.description>Corta pedras em {0}% do tempo normal.</StonecuttingTime.description>
+	<StonecuttingEfficiency.description>Produz {0}% do normal de blocos de pedras quando cortadas.</StonecuttingEfficiency.description>
+	
+	<MiningSpeed.description>Minera com eficiência de {0}%.</MiningSpeed.description>
+	<ResearchSpeed.description>Pesquisa com eficiência de {0}%.</ResearchSpeed.description>
+	<ConstructionSpeed.description>Constrói e repara construções em {0}% do tempo.</ConstructionSpeed.description>
+	<SowingHarvestingSpeed.description>Semeia e cultiva em {0}% do tempo.</SowingHarvestingSpeed.description>
+	
+	<SocialImpact.description>Interações sociais tem {0}% de impacto no humor.</SocialImpact.description>
+	<GiftImpact.description>Presentes possuem {0}% de impacto na relação com facções.</GiftImpact.description>
+	<RecruitChance.description>Você tem {0}% de chance de recrutar um prisioneiro na melhor situação.</RecruitChance.description>
+	<TradePriceImprovement.description>Preços de negociações são {0}% melhores para vendas e compras.</TradePriceImprovement.description>
+	
+	<ShootingAccuracy.description>{0}% chance de errar o tiro por cada quadrante de distância.</ShootingAccuracy.description>
+	<MeleeHitChance.description>{0}% em chance de acertar golpes em um combate/luta.</MeleeHitChance.description>
+	
+</LanguageData>
