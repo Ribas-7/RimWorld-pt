@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>O {0} que se encontra no local, enlouqueceu. Ele atacará qualquer um que avistar.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Algum tipo de onda psíquica varreu sobre a paisagem. Os teus colonos estão bem, mas...\n\nParece que muitos dos animais que estavam na área ficaram loucos.</AnimalInsanityMultiple>
+
+  <CropBlight>Uma misteriosa praga destruiu as tuas plantações.</CropBlight>
+
+  <EclipseIncident>Uma das luas deste planeta orbitou em frente do sol. Um eclipse começou.</EclipseIncident>
+
+  <MiracleHeal>{0} teve uma recuperação milagrosa!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Um grupo de assaltantes do {1} chegaram nas proximidades.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Um grupo de assaltantes do {1} caíram da órbita nas proximidades.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Um grupo de assaltantes do {1} caíram da órbita diretamente em cima de ti!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Eles vão se preparar por um tempo, e depois, atacarão.\n\nPrepara uma defesa ou ataca-os preventivamente.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Eles estão atacando imediatamente.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Parece que eles querem cercar a colónia.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Um grupo de combatentes aliados do {1} chegaram nas proximidades.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Um grupo de combatentes aliados do {1} caíram da órbita nas proximidades.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Um grupo de combatentes aliados do {1} caíram da órbita diretamente em cima de ti!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Eles vão se preparar por um tempo, antes de irem em teu socorro.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Eles estão a ir ajudar-te imediatamente.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Parece que eles querem usar táticas de cerco para te ajudar.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>Detectaste uma cápsula de fuga que caiu fortemente nas proximidades.\n\nSe alguém sobreviveu ao impacto, eles estarão gravemente feridos.</RefugeePodCrash>
+
+  <CargoPodCrash>Detectaste um conjunto de cápsulas de carga cair nas proximidades.\n\nTalvez encontres algo de útil nos destroços.</CargoPodCrash>
+
+  <AnElectricalConduit>um condutor elétrico</AnElectricalConduit>
+  <AWallsPowerConduit>um condutor elétrico de parede</AWallsPowerConduit>
+  <ShortCircuit>Uma falha em {0} causou um curto-circuito.\n\nTodo os {1} Wd da energia armazenada nas baterias foram descarregadas numa explosão elétrica.</ShortCircuit>
+  <ShortCircuitWasLarge>Esta grande quantidade de energia criou uma explosão de tamanho considerável.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Foi realmente uma enorme explosão. Wow.</ShortCircuitWasHuge>
+
+  <LetterSolarFlare>Uma tempestade solar começou.\n\nA intensa radiação vai desligar todos os aparelhos elétricos.\n\nEla deve cessar em cerca de um dia.</LetterSolarFlare>
+
+  <TraderArrival>Uma nave comerciante está a passar nas proximidades.\n\nEles são conhecidos como {0}. Eles são uma {1}.</TraderArrival>
+
+  <SingleTravelerPassing>Um {0} dos {1} está a passar por aqui. Chama-se {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Um grupo de viajantes dos {0} estão a passar por aqui.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>Um {0} dos {1} está a visitar a colónia.\n\nChama-se {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>Um grupo dos {0} estão visitando a colónia.</GroupVisitorsArrive>
+  <VisitorsLeaving>Visitantes dos {0} estão a ir embora.</VisitorsLeaving>
+
+  <WandererJoin>Um {0} com o nome NAME chegou e juntou-se a colónia. É um {1}.</WandererJoin>
+  
+  
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>Uma grande parte de uma nave antiga colidiu aqui perto.\n\nOs teus colonos conseguem sentir nas suas mentes, a apelar atos indescritíveis. Deve conter uma IA a bordo com uma habilidade de projecção psíquica. E esta IA não é amigável.\n\nDestróia o mais rápido possível.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>A estrutura antiga emitiu um batimento psíquico que tornou os animais por perto malucos.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>A parte da nave despenhada emitiu um batimentopsíquico que tornou o colono {0} louco.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Acordou à {0} dias</AwokeDaysAgo>
+  <PsychicDroneLevel>Nível do drone psíquico: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Baixo</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Médio</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Alto</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extremo</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>A parte da nave despenhada está agora a emanar um batimento psíquico muito mais forte. Todos os humanos na área sentem-se perturbados, aterrorizados, e paranóicos.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} revelou-se ser um agente do teu inimigo {1}.\n\nEstão a tentar fugir agora.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Cada colono do sexo {0} retrai-se com dor!\n\nAlgum engenho de ódio está excitante. Está a projectar um batimento psíquico forte em toda a região, numa frequência que só afeta o sexo {0}. Por uns dias, o estado de espírito de algumas pessoas será pior.</LetterIncidentPsychicDrone>
+  
+</LanguageData>

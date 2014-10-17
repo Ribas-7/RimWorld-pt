@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  
-	<FarmingVessel.label>Nave agrícola</FarmingVessel.label>
-	<IndustrialTrader.label>Nave industrial</IndustrialTrader.label>
-	<CombatSupplier.label>Nave militar</CombatSupplier.label>
-	<SlaveTrader.label>Comerciante de escravos</SlaveTrader.label>
-  
-</LanguageData>

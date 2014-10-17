@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Apparel_Pants.label>calças</Apparel_Pants.label>
+    <Apparel_Pants.description>Um simples par de calças.</Apparel_Pants.description>
+    
+    <Apparel_BasicShirt.label>t-shirt</Apparel_BasicShirt.label>
+    <Apparel_BasicShirt.description>T-shirt básica.</Apparel_BasicShirt.description>
+    
+    <Apparel_CollarShirt.description>Uma camisa com colarinho e botões.</Apparel_CollarShirt.description>
+    <Apparel_CollarShirt.label>camisa</Apparel_CollarShirt.label>
+    
+    <Apparel_Duster.description>Uma gabardina para bloquear o sol e dos grãos do deserto.</Apparel_Duster.description>
+    <Apparel_Duster.label>gabardina</Apparel_Duster.label>
+    
+    <Apparel_Jacket.label>casaco</Apparel_Jacket.label>
+    <Apparel_Jacket.description>Um casaco resistente para parar raspões e hematomas.</Apparel_Jacket.description>
+    
+    <Apparel_VestPlate.label>colete</Apparel_VestPlate.label>
+    <Apparel_VestPlate.description>Um colete anti-bala.</Apparel_VestPlate.description>
+    
+    <Apparel_PowerArmor.label>armadura fortificada</Apparel_PowerArmor.label>
+    <Apparel_PowerArmor.description>Armadura fortificada usada pelas tropas de assalto dos planetas avançados.</Apparel_PowerArmor.description>
+    
+    <Apparel_TribalA.label>veste tribal</Apparel_TribalA.label>
+    <Apparel_TribalA.description>Uma vestimenta feita sem máquinas usando ferramentas neolíticas.</Apparel_TribalA.description>
+    
+</LanguageData>

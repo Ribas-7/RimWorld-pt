@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+    <!-- ==================== Bases ========================== -->
+    
+    <!-- ==================== Frag grenade ========================== -->
+	
+	<Proj_GrenadeFrag.label>Granada de mão</Proj_GrenadeFrag.label>
+	
+	<Weapon_GrenadeFrag.label>Granada de mão</Weapon_GrenadeFrag.label>
+	<Weapon_GrenadeFrag.description>Granada de mão Old-school.</Weapon_GrenadeFrag.description>
+	
+    <!-- ==================== Molotov cocktail ========================== -->
+	
+	<Proj_GrenadeMolotov.label>Coquetel Molotov</Proj_GrenadeMolotov.label>
+	
+	<Weapon_GrenadeMolotov.label>Coquetel Molotov</Weapon_GrenadeMolotov.label>
+	<Weapon_GrenadeMolotov.description>Garrafas de vidro cheias de líquido inflamável, com uma roupa em chamas na abertura. A arma favorita dos rufias e de guerreiros desesperados.</Weapon_GrenadeMolotov.description>
+    
+    <!-- ==================== EMP grenade ========================== -->
+    
+    <Proj_GrenadeEMP.label>Granada EMP</Proj_GrenadeEMP.label>
+    
+    <Weapon_GrenadeEMP.label>Granada EMP</Weapon_GrenadeEMP.label>
+    <Weapon_GrenadeEMP.description>granadas de pulsos electromagnéticos prejudiciais para equipamento electrónico.</Weapon_GrenadeEMP.description>
+	
+</LanguageData>

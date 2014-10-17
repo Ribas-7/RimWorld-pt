@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WealthTotal.label>riqueza (total)</WealthTotal.label>
+    
+    <WealthItems.label>riqueza (items)</WealthItems.label>
+    
+    <WealthBuildings.label>riqueza (construções)</WealthBuildings.label>
+    
+    <FreeColonists.label>colonos livres</FreeColonists.label>
+    
+    <Prisoners.label>prisioneiros</Prisoners.label>
+    
+    <ColonistMood.label>estado de espírito</ColonistMood.label>
+    
+</LanguageData>

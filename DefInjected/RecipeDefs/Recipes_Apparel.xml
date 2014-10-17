@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MakeShirt.label>Fazer tshirt</MakeShirt.label>
+    <MakeShirt.description>Faz uma tshirt.</MakeShirt.description>
+    
+    <MakePants.label>Fazer calças</MakePants.label>
+    <MakePants.description>Faz um par de calças.</MakePants.description>
+    
+    <MakeCowboyHat.label>Fazer chapéu Cowboy</MakeCowboyHat.label>
+    <MakeCowboyHat.description>Faz um chapéu de Cowboy.</MakeCowboyHat.description>
+    
+</LanguageData>

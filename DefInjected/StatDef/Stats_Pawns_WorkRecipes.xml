@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CookSpeed.label>velocidade de cozinha</CookSpeed.label>
+    <CookSpeed.description>Velocidade que esta pessoa tem para cozinhar refeições.</CookSpeed.description>
+    
+    <ButcheryFleshSpeed.label>velocidade de matança</ButcheryFleshSpeed.label>
+    <ButcheryFleshSpeed.description>Velocidade a que esta pessoa talha a carne de animais.</ButcheryFleshSpeed.description>
+    
+    <ButcheryFleshEfficiency.label>eficácia de talhante</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>Multiplicador na quantidade de carne produzida quando mata animais.</ButcheryFleshEfficiency.description>
+    
+    <ButcheryMechanoidSpeed.label>velocidade de desmontagem mecânica</ButcheryMechanoidSpeed.label>
+    <ButcheryMechanoidSpeed.description>Velocidade que esta pessoa tem para desmontar um androide.</ButcheryMechanoidSpeed.description>
+    
+    <ButcheryMechanoidEfficiency.label>eficácia de desmontagem mecânica</ButcheryMechanoidEfficiency.label>
+    <ButcheryMechanoidEfficiency.description>Multiplicador na quantidade de materiais obtidos quando esta pessoa desmonta um android morto.</ButcheryMechanoidEfficiency.description>
+    
+    <StonecuttingSpeed.label>velocidade de lapidação</StonecuttingSpeed.label>
+    <StonecuttingSpeed.description>Velocidade a que esta pessoa corta a pedra bruta em blocos.</StonecuttingSpeed.description>
+    
+    <StonecuttingEfficiency.label>eficácia de lapidação</StonecuttingEfficiency.label>
+    <StonecuttingEfficiency.description>Multiplicador no número de blocos produzidos quando esta pessoa corta a pedra bruta em blocos.</StonecuttingEfficiency.description>
+    
+    <TailoringSpeed.label>velocidade de alfaiate</TailoringSpeed.label>
+    <TailoringSpeed.description>Velocidade desta pessoa para fazer roupa.</TailoringSpeed.description>
+    
+    <SmeltingSpeed.label>velocidade de fundição</SmeltingSpeed.label>
+    <SmeltingSpeed.description>Velocidade desta pessoa para fundir coisas.</SmeltingSpeed.description>
+    
+    <SmeltingEfficiency.label>eficácia de fundição</SmeltingEfficiency.label>
+    <SmeltingEfficiency.description>Multiplicador na quantidade de materias obtidos quando esta pessoa funde coisas.</SmeltingEfficiency.description>
+    
+</LanguageData>

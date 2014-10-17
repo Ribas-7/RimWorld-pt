@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Autosaving>Auto guardando</Autosaving>
+  
+  <GameStartDialog>Voçês acordam do sono profundo no vosso sarcófago ao som de sirenes e destruição de metal. Mal conseguem chegar às cápsulas de fuga antes que a nave se desfaça aos bocados.\n\nAlgum tempo mais tarde, aterram neste desconhecido mundo.\n\nEnquanto as partes da nave espacial destruída vão caing por perto, é hora de fazer planos para sobreviver.</GameStartDialog>
+
+  <Colony>Colónia</Colony>
+  
+  <ChangeLanguageFromMainMenu>Só podes alterar a língua no ecrã de opções no menu principal.</ChangeLanguageFromMainMenu>
+
+  <AndLower>e</AndLower>
+  <DisabledLower>disativado</DisabledLower>
+
+  <CloseButton>Fechar</CloseButton>
+
+
+  <VersionIndicator>Versão {0}</VersionIndicator>
+  <DevelopmentBuildLower>versão de desenvolvimento</DevelopmentBuildLower>
+  <CompiledOn>Compilado: {0}</CompiledOn>
+
+	<MeatLabel>carne: {0}</MeatLabel>
+  <MeatDesc>Carne crua de: {0}.</MeatDesc>
+
+  <LeatherLabel>Couro: {0}</LeatherLabel>
+  <LeatherDesc>Couro feito da pele de: {0}.</LeatherDesc>
+
+  <CorpseLabel>Corpo: {0}</CorpseLabel>
+	<CorpseDesc>Corpo sem vida de: {0}.</CorpseDesc>
+  <DeadLabel>{0} (morto)</DeadLabel>
+
+
+	<BlueprintLabelExtra> (esquema)</BlueprintLabelExtra>
+  <FrameLabelExtra> (construção)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{1} de {0}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(vários)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Colono morreu</ColonistDied>
+  
+  
+    
+</LanguageData>

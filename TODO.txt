@@ -1,0 +1,6 @@
+DefInjected:
+ -ThoughtDef
+ -StatDef
+ -SpecialThingFilterDef
+ 
+Typos/Grammar mistakes

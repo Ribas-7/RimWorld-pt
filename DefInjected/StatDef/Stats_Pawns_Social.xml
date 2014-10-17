@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <RecruitPrisonerChance.label>chance de recrutar prisioneiro</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Chance base que esta pessoa tem de recrutar um prisioneiro.</RecruitPrisonerChance.description>
+    
+    <SocialImpact.label>impacto de conversa social</SocialImpact.label>
+    <SocialImpact.description>Quando esta pessoa interage socialmente, isto é quanto a outra pessoa é afectada.</SocialImpact.description>
+    
+    <GiftImpact.label>impacto de oferendas diplomáticas</GiftImpact.label>
+    <GiftImpact.description>Quando esta pessoa dá um presente a outra facção, este multiplicador é aplicado ao impacto no relacionamento da facção.</GiftImpact.description>
+    
+    <TradePriceImprovement.label>melhoria do preço de trocas</TradePriceImprovement.label>
+    <TradePriceImprovement.description>Quando esta pessoa negoceia preços, os preçoes de compra e venda  são aperfeiçoados por esta percentagem.</TradePriceImprovement.description>
+    
+</LanguageData>

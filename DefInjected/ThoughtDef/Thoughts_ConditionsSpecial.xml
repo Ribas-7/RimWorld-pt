@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Imprisoned.label>preso</Imprisoned.label>
+    <Imprisoned.description>Detesto estar trancado.</Imprisoned.description>
+    
+    <SharedBedroom.label>partilhar quarto</SharedBedroom.label>
+    <SharedBedroom.description>Partilhar um quarto com outros é irritante. Quero alguma privacidade. </SharedBedroom.description>
+    
+    <ColonistLeftUnburied.label>colono não enterrado</ColonistLeftUnburied.label>
+    <ColonistLeftUnburied.description>Um de nós morreu e deixá-mo-lo no chão ao ar livre. Ninguém deveria ser deixado assim. As pessoas merecem um enterro decente.</ColonistLeftUnburied.description>
+    
+    <HappyNude.label>alegremente sem roupa</HappyNude.label>
+    <HappyNude.description>Estou sem roupa e estou a adorar! Sintom-me tão livre e sem constrangimento em contacto com o ambiente!</HappyNude.description>
+    
+    <Naked.label>sem roupa</Naked.label>
+    <Naked.description>Estou sem roupa. É humilhante.</Naked.description>
+    
+    <MasochistLittlePain.label>com dor leve</MasochistLittlePain.label>
+    <MasochistLittlePain.description>Ow... Heh heh heh... Podia-me habituar a isto!</MasochistLittlePain.description>
+    
+    <MasochistMediumPain.label>com dor moderada</MasochistMediumPain.label>
+    <MasochistMediumPain.description>Ughhh... Dói, mas eu adoro! Não parem!</MasochistMediumPain.description>
+    
+    <MasochistSeverePain.label>com dor aguda</MasochistSeverePain.label>
+    <MasochistSeverePain.description>Ouch... Acho que quebrei algum osso... Mas que sensação exceleten!</MasochistSeverePain.description>
+    
+    <MasochistInShock.label>em choque da dor excepcional</MasochistInShock.label>
+    <MasochistInShock.description>Ahhh... Estou no paraíso?</MasochistInShock.description>
+    
+    <ProsthophileHappy.label>tem parte biónica</ProsthophileHappy.label>
+    <ProsthophileHappy.description>Sou um produto da tecnologia moderna! Posso fazer tudo muito melhor!</ProsthophileHappy.description>
+    
+    <ProsthophobeUnhappy.label>tem parte biónia</ProsthophobeUnhappy.label>
+    <ProsthophobeUnhappy.description>Eles tornaram-me numa abominação tecnológica... Se ao menos me tivessem dado a escolher...</ProsthophobeUnhappy.description>
+    
+    <BrawlerUnhappy.label>lutador tem arma de fogo</BrawlerUnhappy.label>
+    <BrawlerUnhappy.description>Gah! Detesto disparar à distância. Quero chegar perto e pessoal!</BrawlerUnhappy.description>
+    
+</LanguageData>

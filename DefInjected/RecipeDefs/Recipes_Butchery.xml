@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <ButcherCorpseFlesh.label>matar criatura</ButcherCorpseFlesh.label>
+    <ButcherCorpseFlesh.description>Mata a criatura para obter a sua carne.</ButcherCorpseFlesh.description>
+    
+    <ButcherCorpseMechanoid.label>desmontar androide</ButcherCorpseMechanoid.label>
+    <ButcherCorpseMechanoid.description>Desmonta um robô morto para obter os seus componentes.</ButcherCorpseMechanoid.description>
+    
+</LanguageData>

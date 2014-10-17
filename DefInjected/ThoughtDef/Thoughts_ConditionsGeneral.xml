@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hungry.label>com fome</Hungry.label>
+    <Hungry.description>Já não como há algum tempo.</Hungry.description>
+    
+    <UrgentlyHungry.label>urgentemente com fome</UrgentlyHungry.label>
+    <UrgentlyHungry.description>A fome está a matar-me por dentro. Preciso de comida ou morro à fome em breve.</UrgentlyHungry.description>
+    
+    <Starving.label>morrer de fome</Starving.label>
+    <Starving.description>Eu apenas quero algo - qualquer coisa - para comer. Consigo sentir o meu corpo a morrer aos poucos. Dói...</Starving.description>
+    
+    <Tired.label>cansado</Tired.label>
+    <Tired.description>Já não durmo há algum tempo.</Tired.description>
+    
+    <VeryTired.label>muito cansado</VeryTired.label>
+    <VeryTired.description>Só me apetece deitar e descansar um pouco...</VeryTired.description>
+    
+    <Exhausted.label>exausto</Exhausted.label>
+    <Exhausted.description>Estou tão exausto que mal me consigo manter de pé. Deixem-me dormir...</Exhausted.description>
+    
+    <EnvironmentUgly.label>ambiente feio</EnvironmentUgly.label>
+    <EnvironmentUgly.description>Este lugar é desagradável para se estar.</EnvironmentUgly.description>
+    
+    <EnvironmentVeryUgly.label>ambiente muito feio</EnvironmentVeryUgly.label>
+    <EnvironmentVeryUgly.description>Este lugar é mesmo desagradável. Não quero estar aqui.</EnvironmentVeryUgly.description>
+    
+    <EnvironmentHideous.label>ambiente horrível</EnvironmentHideous.label>
+    <EnvironmentHideous.description>Este lugar é insuportável. Tirem-me daqui...</EnvironmentHideous.description>
+    
+    <EnvironmentPretty.label>ambiente agradável</EnvironmentPretty.label>
+    <EnvironmentPretty.description>Este lugar é bonito.</EnvironmentPretty.description>
+    
+    <EnvironmentVeryPretty.label>ambiente muito agradável</EnvironmentVeryPretty.label>
+    <EnvironmentVeryPretty.description>Gosto mesmo deste lugar. É belo.</EnvironmentVeryPretty.description>
+    
+    <EnvironmentBeautiful.label>ambiente belíssimo</EnvironmentBeautiful.label>
+    <EnvironmentBeautiful.description>Este lugar é muito bonito. Deixa-me alegre e com gosto de viver.</EnvironmentBeautiful.description>
+    
+    <EnvironmentCramped.label>ambiente apertado</EnvironmentCramped.label>
+    <EnvironmentCramped.description>Este lugar é mesmo fechado. Sinto que não tenho espaço para respirar.</EnvironmentCramped.description>
+    
+    <EnvironmentVeryCramped.label>ambiente muito apertado</EnvironmentVeryCramped.label>
+    <EnvironmentVeryCramped.description>Está muito claustrofóbico aqui. Nem me posso mexer. Sinto-me um rato numa gaiola pequena.</EnvironmentVeryCramped.description>
+    
+    <EnvironmentSpaciousInterior.label>interior espaçoso</EnvironmentSpaciousInterior.label>
+    <EnvironmentSpaciousInterior.description>Este espaço interior é amplo e confortável.</EnvironmentSpaciousInterior.description>
+    
+    <EnvironmentDark.label>na escuridão</EnvironmentDark.label>
+    <EnvironmentDark.description>Já estou no escuro há algum tempo. Não gosto.</EnvironmentDark.description>
+    
+    <CabinFeverMild.label>febre claustrofóbica (leve)</CabinFeverMild.label>
+    <CabinFeverMild.description>Tenho estado enfiado aqui dentro há dias. Preciso de sair à rua.</CabinFeverMild.description>
+    
+    <CabinFeverSerious.label>febre claustrofóbica (grave)</CabinFeverSerious.label>
+    <CabinFeverSerious.description>Tenho estado aqui preso como um rato há tanto tempo. Preciso desesperadamente de sair à rua ou dou em maluco!</CabinFeverSerious.description>
+    
+    <Sick.label>doente</Sick.label>
+    <Sick.description>Não me sinto muito bem, estou doente.</Sick.description>
+    
+</LanguageData>

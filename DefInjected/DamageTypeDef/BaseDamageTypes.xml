@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Local injuries -->
+    
+    <Cut.label>corte</Cut.label>
+    
+    <Crush.label>esmagado</Crush.label>
+    
+    <Blunt.label>Contusão</Blunt.label>
+    
+    <Stab.label>facada</Stab.label>
+    
+    <Bullet.label>bala</Bullet.label>
+    
+    <Arrow.label>seta</Arrow.label>
+    
+    <Scratch.label>arranhão</Scratch.label>
+    
+    <Bite.label>mordida</Bite.label>
+    
+    <Bomb.label>bomba</Bomb.label>
+    
+    <Flame.label>chama</Flame.label>
+    
+    <SurgicalCut.label>corte cirúrgico</SurgicalCut.label>
+    
+    <!-- Stun -->
+    
+    <Stun.label>atordoado</Stun.label>
+    
+    <EMP.label>EMP</EMP.label>
+    
+    <!-- Global injuries -->
+    
+    <Bleeding.label>sangramento</Bleeding.label>
+    
+    <Suffocation.label>asfixia</Suffocation.label>
+    
+    <Starvation.label>fome</Starvation.label>
+    
+    <!-- Healing local injury -->
+    
+    <HealLocalInjury.label>tratar de ferimento local</HealLocalInjury.label>
+    
+    <!-- Healing global injury -->
+    
+    <HealGlobalInjury.label>tratar de ferimento geral</HealGlobalInjury.label>
+    
+    <!-- Restoring body part -->
+    
+    <RestoringBodyPart.label>restaurando parte do corpo</RestoringBodyPart.label>
+    
+    <!-- misc -->
+    
+    <Breakdown.label>colapso</Breakdown.label>
+    
+    <Mining.label>minar</Mining.label>
+    
+    <Rotting.label>apodrecer</Rotting.label>
+    
+    <Extinguish.label>apagar fogo</Extinguish.label>
+    
+</LanguageData>

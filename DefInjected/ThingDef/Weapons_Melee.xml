@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ============================================================== -->
+    
+    <MeleeWeapon_ShortSword.label>espada</MeleeWeapon_ShortSword.label>
+    <MeleeWeapon_ShortSword.description>Confiável e mostífera em combate corpo-a-corpo.</MeleeWeapon_ShortSword.description>
+    
+    <MeleeWeapon_Knife.label>faca</MeleeWeapon_Knife.label>
+    <MeleeWeapon_Knife.description>Uma simples faca.</MeleeWeapon_Knife.description>
+    
+    <MeleeWeapon_Shiv.label>estoque</MeleeWeapon_Shiv.label>
+    <MeleeWeapon_Shiv.description>Uma faca improvisada.</MeleeWeapon_Shiv.description>
+    
+    <MeleeWeapon_Spear.label>lança</MeleeWeapon_Spear.label>
+    <MeleeWeapon_Spear.description>Uma arma de haste com uma ponta afiada para esfaquear inimigos em combate corpo-a-corpo.</MeleeWeapon_Spear.description>
+    
+    <MeleeWeapon_Club.label>clava</MeleeWeapon_Club.label>
+    <MeleeWeapon_Club.description>A arma humana mais velha de sempre - um pedaço de madeira em forma de bastão para espancar os inimigos até a morte. Primitiva mas eficaz.</MeleeWeapon_Club.description>
+    
+</LanguageData>

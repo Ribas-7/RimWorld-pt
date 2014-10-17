@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Psychic drone -->
+    
+    <PsychicDroneLow.label>drone psíquico (fraco)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Parece que está a arranhar a minha mente. Uma voz, a sussurrar. Só consigo perceber algumas palavras, e não estou a gostar do que oiço.</PsychicDroneLow.description>
+    
+    <PsychicDroneMedium.label>drone psíquico (médio)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Parece que alguém está ao virar da esquina, a falar para mim. A voz muda mas a mensagem não. É para eu magoar pessoas. Faz ela ir embora!</PsychicDroneMedium.description>
+    
+    <PsychicDroneHigh.label>drone psíquico (elevado)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>A voz está insuportavelmente alta. É difícil concentrar-me. Às vezes respondo à voz, berrando-lhe. Mas ela continua a gritar!</PsychicDroneHigh.description>
+    
+    <PsychicDroneExtreme.label>drone psíquico (extremo)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>O meu coração bate rápido e estou a suar. Só consigo pensar em magoar e causar sofrimento e em todos estes inimigos à minha volta. São o meu pesadelo, o meu pesadelo, o meu pesadelo...</PsychicDroneExtreme.description>
+    
+</LanguageData>

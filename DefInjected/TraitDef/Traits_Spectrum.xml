@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>SpeedOffset.degreeDatas[0].label</path>
+		<trans>Caracol</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[0].description</path>
+		<trans>NAME está sempre a ficar para trás do grupo sempre que vão a algum lado.</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[1].label</path>
+		<trans>Peão rápido</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[1].description</path>
+		<trans>NAME gosta de estar onde tem de ir. NAME anda mais rápido que a maior parte das pessoas.</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[2].label</path>
+		<trans>Corredor</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[2].description</path>
+		<trans>NAME anda sempre com uma sensação de urgência - é tanta que os outros ficam para trás		.</trans>
+	</rep>
+
+
+	<rep>
+		<path>NaturalMood.degreeDatas[0].label</path>
+		<trans>esperançoso</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[0].description</path>
+		<trans>NAME está naturalmente feliz com a HIS situação, basicamente todo o tempo, independentemente de qual for.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[1].label</path>
+		<trans>optimista</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[1].description</path>
+		<trans>NAME está naturalmente optimista com a vida. É difícil deitar HIM abaixo.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[2].label</path>
+		<trans>pessimista</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[2].description</path>
+		<trans>NAME tende a ver o lado negativo da vida.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[3].label</path>
+		<trans>depressivo</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[3].description</path>
+		<trans>NAME está repetidametne infeliz. HECAP tem problemas a manter um bom estado de espírito mesmo quando corre tudo bem.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Nerves.degreeDatas[0].label</path>
+		<trans>determinado</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[0].description</path>
+		<trans>a força de vontade de NAME é um escudo de ferro. HECAP continua o seu caminho , seja bom ou mau, mesmo quando os outros fracassaram há muito.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[1].label</path>
+		<trans>estável</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[1].description</path>
+		<trans>NAME é mentalmente resistente e não quebra com stresses que quebrariam maior parte das pessoas.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[2].label</path>
+		<trans>nervoso</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[2].description</path>
+		<trans>NAME tende a quebrar sob pressão.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[3].label</path>
+		<trans>volátil</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[3].description</path>
+		<trans>NAME está prestes a quebrar a qualquer instante. HECAP é quem se vai logo abaixo em qualquer situação difícil.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Neurotic.degreeDatas[0].label</path>
+		<trans>neurótico</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[0].description</path>
+		<trans>NAME gosta de ter as coisas tratadas. HECAP trabalha mais árduamente que a maioria para obter resultados, mas os nervos podem subir-lhe a cabeça.</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[1].label</path>
+		<trans>muito neurótico</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[1].description</path>
+		<trans>NAME sente-se constantemente em nervos com tudo o que tem de fazer. HECAP trabalha extremamente muito para obter resultados, mas os nervos podem facilmente subir-lhe a cabeça.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Industriousness.degreeDatas[0].label</path>
+		<trans>aplicado</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[0].description</path>
+		<trans>NAME tem facilidade em manter-se com a cabeça focada, e consegue fazer o que tem para fazer muito mais rápido que uma pessoa normal.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[1].label</path>
+		<trans>trabalhador árduo</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[1].description</path>
+		<trans>NAME é um trabalhador árduo natural e acaba as tarefas mais rápido que a maioria.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[2].label</path>
+		<trans>prequiçoso</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[2].description</path>
+		<trans>NAME tem um pouco de preguiça.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[3].label</path>
+		<trans>mandrião</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[3].description</path>
+		<trans>NAME adora desocupação e detesta tudo que seja produtivo. HECAP move-se devagar e raramente mantém o foco numa tarefa.</trans>
+	</rep>
+	
+
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[0].label</path>
+		<trans>hypersensível mentalmente</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[0].description</path>
+		<trans>A mente de NAME e como um diapasão psíquico. HECAP é extremamente sensível a fenómenos psíquicos.</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[1].label</path>
+		<trans>sensível mentalmente</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[1].description</path>
+		<trans>A mente de NAME sensível a fenómenos psíquicos.</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[2].label</path>
+		<trans>mentalmente apagado</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[2].description</path>
+		<trans>A mente de NAME está desfasada das outras. HECAP não é assim tanto afectado por fenómenos psíquicos</trans>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[3].label</path>
+		<trans>mentalmente surdo</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[3].description</path>
+		<trans>A mente de NAME funciona numa frequência diferente de todos os outros. HECAP não é afectados por fenómenos psíquicos.</trans>
+	</rep>
+
+</LanguageData>

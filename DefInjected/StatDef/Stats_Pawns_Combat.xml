@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MeleeHitChance.label>chance de golpe corpo-a-corpo</MeleeHitChance.label>
+    <MeleeHitChance.description>Chance base de acertar no alvo corpo-a-corpo.</MeleeHitChance.description>
+    
+    <MeleeHitChanceFactor.label>fator de chance de golpe corpo-a-corpo</MeleeHitChanceFactor.label>
+    <MeleeHitChanceFactor.description>Valores negativos reduzem a precisão, valores positivos reduzem a chance de falhar.</MeleeHitChanceFactor.description>
+    
+    <ShootingAccuracy.label>Precisão de disparo</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Chance base de não falhar por cada quadrado de distnância.</ShootingAccuracy.description>
+    
+    <AimingDelayFactor.label>tempo de pontaria</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Quanto tempo demora a disparar depois de apontar.</AimingDelayFactor.description>
+    
+    <HitChanceFactor.label>fator de chance de acertar</HitChanceFactor.label>
+    <HitChanceFactor.description>Valores negativos reduzem a precisão, valores positivos reduzem a chance falhar.</HitChanceFactor.description>
+    
+</LanguageData>

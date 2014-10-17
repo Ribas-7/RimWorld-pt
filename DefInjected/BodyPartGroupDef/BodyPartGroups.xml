@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Torso.label>Tronco</Torso.label>
+	<UpperHead.label>Parte superior da cabeça</UpperHead.label>
+	<FullHead.label>Cabeça inteira</FullHead.label>
+	<Eyes.label>Olhos</Eyes.label>
+	<Arms.label>Braços</Arms.label>
+	<Hands.label>Mãos</Hands.label>
+	<LeftFist.label>Punho esquerdo</LeftFist.label>
+	<RightFist.label>Punho direito</RightFist.label>
+	<Legs.label>Pernas</Legs.label>
+	<Feet.label>Pés</Feet.label>
+	<Teeth.label>Dentes</Teeth.label>
+	<FrontLeftPaw.label>Pata esquerda dianteira</FrontLeftPaw.label>
+	<FrontRightPaw.label>Pata direita dianteira</FrontRightPaw.label>
+	<HeadAttackTool.label>Cabeça</HeadAttackTool.label>
+	<FrontLeftLeg.label>Perna esquerda dianteira</FrontLeftLeg.label>
+	<FrontRightLeg.label>Perna direita dianteira</FrontRightLeg.label>
+	<FrontLeftClaws.label>Garra esquerda dianteira</FrontLeftClaws.label>
+	<FrontRightClaws.label>Garra direita dianteira</FrontRightClaws.label>
+	<Mouth.label>Boca</Mouth.label>
+	<LeftKnifeProtrusion.label>Protusão da faca esquerda</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Protusão da faca direita</RightKnifeProtrusion.label>
+	<CoveredByNaturalArmor.label>Protegido pela armadura natural</CoveredByNaturalArmor.label>
+	<TuskAttackTool.label>Presas</TuskAttackTool.label>
+	<HornAttackTool.label>Corno</HornAttackTool.label>
+	<TurtleBeakAttackTool.label>Bico (nariz)</TurtleBeakAttackTool.label>
+		
+</LanguageData>

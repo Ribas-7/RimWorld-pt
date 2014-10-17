@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  	<!-- new body parts - natural -->
+    
+    <InstallNaturalHeart.label>implantar coração</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Implanta um coração.</InstallNaturalHeart.description>
+    
+    <InstallNaturalLiver.label>implantar fígado</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>implanta um fígado.</InstallNaturalLiver.description>
+    
+    <InstallNaturalKidney.label>implantar rim</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Implanta um rim.</InstallNaturalKidney.description>
+    
+    <InstallNaturalLung.label>implantar pulmão</InstallNaturalLung.label>
+    <InstallNaturalLung.description>implanta um pulmão.</InstallNaturalLung.description>
+    
+  	<!-- new body parts - artificial -->
+    
+    <InstallPegLeg.label>implantar perna-de-pau</InstallPegLeg.label>
+    <InstallPegLeg.description>implanta uma perna-de-pau.</InstallPegLeg.description>
+    
+    <InstallBionicEye.label>implantar olho biónico</InstallBionicEye.label>
+    <InstallBionicEye.description>Implanta um olho biónico.</InstallBionicEye.description>
+    
+    <InstallBionicArm.label>implantar braço biónico</InstallBionicArm.label>
+    <InstallBionicArm.description>Implanta um braço biónico.</InstallBionicArm.description>
+    
+    <InstallBionicLeg.label>implantar perna biónica</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Implanta uma perna biónica.</InstallBionicLeg.description>
+    
+    <InstallSimpleProstheticLeg.label>implantar perna prótetica simples</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Implanta uma perna prótetica simples.</InstallSimpleProstheticLeg.description>
+    
+    <InstallSimpleProstheticArm.label>implantar braço prótetico simples</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Implanta um braço prótetico simples.</InstallSimpleProstheticArm.description>
+    
+    <InstallDenture.label>Implantar dentadura</InstallDenture.label>
+    <InstallDenture.description>Implanta uma dentadura.</InstallDenture.description>
+    
+    <InstallPowerClaw.label>Implantar garra mecanica</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Implanta uma garra mecanica.</InstallPowerClaw.description>
+    
+    <InstallScytherKnifeProtrusion.label>Implantar protusão de foice</InstallScytherKnifeProtrusion.label>
+    <InstallScytherKnifeProtrusion.description>Implanta uma protusão de uma foice.</InstallScytherKnifeProtrusion.description>
+    
+  	<!-- removing body parts -->
+    
+    <RemoveBodyPart.label>remover parte</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Removes a parte do corpo.</RemoveBodyPart.description>
+    
+    <RemoveMechanoidBodyPart.label>remover parte</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Removes a parte do corpo.</RemoveMechanoidBodyPart.description>
+    
+  	<!-- Euthanization -->
+    
+    <Euthanize.label>eutanizar</Euthanize.label>
+    <Euthanize.description>Eutaniza-se.</Euthanize.description>
+    
+    <ShutDownMechanoid.label>desligar</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>desliga-se.</ShutDownMechanoid.description>
+    
+</LanguageData>

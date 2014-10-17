@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Apparel_CowboyHat.label>chapéu cowboy</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Estiloso porém resistente, este chapéu protege do sol e da chuva - e dá a quem o usa um charme extra. É a peça mais importante da roupa tradicional do faroeste.</Apparel_CowboyHat.description>
+    
+    <Apparel_PowerArmorHelmet.label>capacete da armadura fortificada</Apparel_PowerArmorHelmet.label>
+    <Apparel_PowerArmorHelmet.description>Parte do conjunto da armadura fortificada, usado principalmente por infantaria.</Apparel_PowerArmorHelmet.description>
+    
+    <Apparel_KevlarHelmet.label>capacete kevlar</Apparel_KevlarHelmet.label>
+    <Apparel_KevlarHelmet.description>Peça essencial na de armadura pessoal. Usado para ajudar a absorber a explosão de uma granada.</Apparel_KevlarHelmet.description>
+    
+    <Apparel_MilitaryHelmet.label>capacete militar</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Com um ar antigo e pesado, mas muito útil durante ataques inimigos. Usado principalmente para proteger de projectéis de baixa velocidade.</Apparel_MilitaryHelmet.description>
+    
+</LanguageData>

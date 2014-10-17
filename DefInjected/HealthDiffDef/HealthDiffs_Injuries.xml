@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  	<!-- Injuries -->
+    
+    <Misc.label>diversos</Misc.label>
+    
+    <Burn.label>queimadura</Burn.label>
+    
+    <Crush.label>esmagamento</Crush.label>
+    
+    <Crack.label>partido</Crack.label>
+    
+    <Cut.label>corte</Cut.label>
+    
+    <SurgicalCut.label>corte cirúrgico</SurgicalCut.label>
+    
+    <Scratch.label>arranhão</Scratch.label>
+    
+    <Bite.label>mordida</Bite.label>
+    
+    <Stab.label>facada</Stab.label>
+    
+    <Gunshot.label>tiro</Gunshot.label>
+    
+    <Shredded.label>estilhaçado</Shredded.label>
+    
+    <Bruise.label>nódoa</Bruise.label>
+    
+  	<!-- Missing body part -->
+    
+    <MissingBodyPart.label>falta parte do corpo</MissingBodyPart.label>
+    
+</LanguageData>

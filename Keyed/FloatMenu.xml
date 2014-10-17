@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CallOnRadio>Chamar {0}</CallOnRadio>
+  <CannotUseSolarFlare>Não é possível usar (erupção solar)</CannotUseSolarFlare>
+  <CannotUseNoPower>Não é possível usar (sem electricidade)</CannotUseNoPower>
+  <CannotUseNoPath>Não é possível usar (sem caminho)</CannotUseNoPath>
+  <CannotUseReserved>Não é possível usar (reservado)</CannotUseReserved>
+  <CannotUseFull>Não é possível usar (cheio)</CannotUseFull>
+
+  <FireAt>Atirar contra {0}</FireAt>
+
+  <OutOfRange>fora de alcance</OutOfRange>
+  <CannotHitTarget>não pode acertar no alvo</CannotHitTarget>
+  <CannotFight>{0} não pode lutar</CannotFight>
+  
+  <OrderManThing>Manusear {0}</OrderManThing>
+
+  <MeleeAttack>Combater corpo-a-corpo com {0}</MeleeAttack>
+  <MeleeAttackToDeath>Combater corpo-a-corpo com {0} até a morte</MeleeAttackToDeath>
+  <NoPath>sem caminho</NoPath>
+
+  <ForbiddenLower>proibido</ForbiddenLower>
+  <SociallyImproperLower>socialmente inapropriado</SociallyImproperLower>
+  <PrisonerRoomLower>quarto de prisioneiro</PrisonerRoomLower>
+  <BurningLower>queimadura</BurningLower>
+  <NoEmptyPlaceLower>sem sítio disponível configuradono para o guardar</NoEmptyPlaceLower>
+  <AlreadyFilledLower>suficientemente cheio</AlreadyFilledLower>
+  <MissingMaterials>precisa de materiais</MissingMaterials>
+	
+  <CannotGoNoPath>Não pode andar até aqui (sem caminho)</CannotGoNoPath>
+  <GoHere>Andar até aqui</GoHere>
+  
+  <Arrest>Prender {0}</Arrest>
+  <CannotArrest>Não pode prender</CannotArrest>
+
+  <Capture>Capturar {0}</Capture>
+  <CannotCapture>Não pode capturar</CannotCapture>
+
+  <Rescue>Socorrer {0}</Rescue>
+  <CannotRescue>Não pode socorrer</CannotRescue>
+
+  <NoPrisonerBed>Nenhuma cama de prisioneiro disponível em sala fechada.</NoPrisonerBed>
+  <NoNonPrisonerBed>Camas de não-prisioneiros não disponíveis.</NoNonPrisonerBed>
+  <Reserved>Reservado por outra pessoa.</Reserved>
+  <ReservedBy>Reservado por {0}.</ReservedBy>
+  <IsReservedBy>{0} está reservado por {1}.</IsReservedBy>
+
+  <NoManipulationSkill>incapaz</NoManipulationSkill>
+
+  <Equip>Equipar {0}</Equip>
+  <EquipWarningBrawler>(lutador ficará infeliz)</EquipWarningBrawler>
+  <CannotEquip>Não pode equipar {0}</CannotEquip>
+  
+  <Wear>Usar {0}</Wear>
+  <CannotWear>Não pode usar {0}</CannotWear>
+  
+  <Strip>Remover {0}</Strip>
+  <CannotStrip>Não pode remover {0}</CannotStrip>
+
+  <Deposit>Depositar {0} no {1}</Deposit>
+  <CannotDeposit>Não pode depositar {0} no {1}</CannotDeposit>
+
+  <Drop>Largar {0}</Drop>
+  
+  <UseMedicalBed>Descansar até estar completamente curado</UseMedicalBed>
+  <NotInjured>Sem ferimentos</NotInjured>
+  <SomeoneElseSleeping>Ocupado</SomeoneElseSleeping>
+  
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Entrar na cápsula de crypto-sono</EnterCryptosleepPod>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Não pode {0}: {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Já {0}: {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Não pode priorizar ({0} não é: {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Não pode priorizar (pesquisa é uma tarefa de longo prazo)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Não pode priorizar ({0} é proibido)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Priorizar {0}: {1}</PrioritizeGeneric>
+  
+</LanguageData>

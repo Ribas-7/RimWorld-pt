@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ============================ Mechanoids ========================== -->
+    
+    <!-- Centipede -->
+    
+    <Mechanoid_Centipede.label>centopéia</Mechanoid_Centipede.label>
+    <Mechanoid_Centipede.description>Bichos mecânicos de combate que deslizem em dezenas de pequenas pernas. A sua armadura fortificada e o seu poder de fogo torna-as muito eficazes contra defensores imóveis. São vulneráveis contra tácticas ataca-e-foge.</Mechanoid_Centipede.description>
+    
+    <!-- Scyther -->
+    
+    <Mechanoid_Scyther.label>scyther</Mechanoid_Scyther.label>
+    <Mechanoid_Scyther.description>Androides de combate rápidos e finos de altura humana. Eles costumam ter uma arma de fogo principal, e os seus corpos têm várias protusões em forma de faca que os torna mortais em combate corpo-a-corpo. Eles não se protegem. Facilmente derrotados com força concentrada e devastadora.</Mechanoid_Scyther.description>
+    
+</LanguageData>

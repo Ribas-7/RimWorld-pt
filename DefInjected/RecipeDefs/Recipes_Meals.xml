@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<CookMealSimple.label>Cozinhar refeição simples</CookMealSimple.label>
+	<CookMealSimple.description>Cozinha uma refeição simples com um ingrediente.</CookMealSimple.description>
+	
+	<CookMealFine.label>Cozinhar refeição requintada</CookMealFine.label>
+	<CookMealFine.description>Cozinha uma refeição um pouco complexa a partir de uma combinação de ingredientes, como carne crua e vegetais crus.</CookMealFine.description>
+	
+	<CookMealLavish.label>Cozinhar refeição exuberante</CookMealLavish.label>
+	<CookMealLavish.description>Cozinha uma refeição muito complexa a partir de uma combinação de ingredientes, como carne crua e vegetais crus. Muito dos ingredientes são gastos.</CookMealLavish.description>
+	
+</LanguageData>

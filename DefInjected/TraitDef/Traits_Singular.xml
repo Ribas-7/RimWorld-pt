@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>Nudist.degreeDatas[0].label</path>
+		<trans>nudista</trans>
+	</rep>
+	<rep>
+		<path>Nudist.degreeDatas[0].description</path>
+		<trans>NAME adora o sentimento de liberdade de estar sem roupas. HECAP suporta roupa, mas fica mais feliz sem ela.</trans>
+	</rep>
+
+	<rep>
+		<path>Bloodlust.degreeDatas[0].label</path>
+		<trans>sede de sangue</trans>
+	</rep>
+	<rep>
+		<path>Bloodlust.degreeDatas[0].description</path>
+		<trans>NAME ganha ímpeto por magoar pessoas, e nunca se importa com a visão de sangue ou morte.</trans>
+	</rep>
+
+	<rep>
+		<path>Psychopath.degreeDatas[0].label</path>
+		<trans>Psicopata</trans>
+	</rep>
+	<rep>
+		<path>Psychopath.degreeDatas[0].description</path>
+		<trans>NAME não tem empatia. O sofrimento dos outros não lhe incomoda de modo algum. HECAP não se importa se os outros são mortos, presos, ou vendidos como escravos - a não ser que seja HIS; também não ganha nada em socializar.</trans>
+	</rep>
+
+	<rep>
+		<path>Cannibal.degreeDatas[0].label</path>
+		<trans>Canibal</trans>
+	</rep>
+	<rep>
+		<path>Cannibal.degreeDatas[0].description</path>
+		<trans>NAME foi ensinado que comer carne humana é errado e terrível. Mas uma vez, há muito tempo, a tentação foi tanta que provou... e NAME gostou.</trans>
+	</rep>
+
+	<rep>
+		<path>Abrasive.degreeDatas[0].label</path>
+		<trans>abrasivo</trans>
+	</rep>
+	<rep>
+		<path>Abrasive.degreeDatas[0].description</path>
+		<trans>NAME sempre diz exactamente o que vai no pensamento, especialmente se lhe chateia. Isso tende a levar as pessoas para o caminho errado.</trans>
+	</rep>
+
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].label</path>
+		<trans>Dedo-no-Gatilho</trans>
+	</rep>
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].description</path>
+		<trans>Pew! Pew! Pew! NAME dispara terrivelmente, mas NAME não se importa, porque armas são brutais!</trans>
+	</rep>
+
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].label</path>
+		<trans>Atirador cauteloso</trans>
+	</rep>
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].description</path>
+		<trans>NAME tem boa pontaria, mas demora mais tempo a focar-se no alvo.</trans>
+	</rep>
+
+	<rep>
+		<path>TooSmart.degreeDatas[0].label</path>
+		<trans>Demasiado esperto</trans>
+	</rep>
+	<rep>
+		<path>TooSmart.degreeDatas[0].description</path>
+		<trans>NAME é demasiado esperto para o HIS próprio bem. NAME pode aprender tudo muito mais rápido que os outros, mas pode ser demasiado excêntrico.</trans>
+	</rep>
+
+	<rep>
+		<path>Brawler.degreeDatas[0].label</path>
+		<trans>Lutador</trans>
+	</rep>
+	<rep>
+		<path>Brawler.degreeDatas[0].description</path>
+		<trans>NAME gosta de combater corpo-a-corpo. Tem uma precisão em combate muito maior, mas sente-se triste quando tem de carregar uma arma de fogo.</trans>
+	</rep>
+
+	<rep>
+		<path>Masochist.degreeDatas[0].label</path>
+		<trans>masoquista</trans>
+	</rep>
+	<rep>
+		<path>Masochist.degreeDatas[0].description</path>
+		<trans>Para NAME, há algo excitante em magoar-se. NAME sabe porquê; talvez tenha nascido diferente dos outros.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophile.degreeDatas[0].label</path>
+		<trans>Entusiasta por próteses</trans>
+	</rep>
+	<rep>
+		<path>Prosthophile.degreeDatas[0].description</path>
+		<trans>NAME sente-se limitado no débil corpo humano. NAME sonha frequentemente em ter partes biónicas.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].label</path>
+		<trans>Fobia a próteses</trans>
+	</rep>
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].description</path>
+		<trans>NAME acredita que o corpo humano é limitado por alguma razão. Para NAME, partes do corpo biónicas são antiéticas.</trans>
+	</rep>
+
+	<rep>
+		<path>GreenThumb.degreeDatas[0].label</path>
+		<trans>Polegar Verde</trans>
+	</rep>
+	<rep>
+		<path>GreenThumb.degreeDatas[0].description</path>
+		<trans>NAME tem uma paixão por jardinagem. HECAP recebe um bonus de disposição por cada planta que semear.</trans>
+	</rep>
+
+</LanguageData>

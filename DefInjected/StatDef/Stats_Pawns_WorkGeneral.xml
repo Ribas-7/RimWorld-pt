@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WorkSpeedGlobal.label>velocidade do trabalho geral</WorkSpeedGlobal.label>
+    <WorkSpeedGlobal.description>Um multiplicador na velocidade de alguém quando trabalha em algo.</WorkSpeedGlobal.description>
+    
+    <MiningSpeed.label>velocidade de minar</MiningSpeed.label>
+    <MiningSpeed.description>Um multiplicador na velocidade que esta pessoa tem a minar pedra.</MiningSpeed.description>
+    
+    <ResearchSpeed.label>velocidade de pesquisa</ResearchSpeed.label>
+    <ResearchSpeed.description>Esta pessoa pesquisa a esta velocidade.</ResearchSpeed.description>
+    
+    <ConstructionSpeed.label>velocidade de construção</ConstructionSpeed.label>
+    <ConstructionSpeed.description>Velocidade que esta pessoa tem para construir e reparar edifícios.</ConstructionSpeed.description>
+    
+    <PlantWorkSpeed.label>velocidade agrícula</PlantWorkSpeed.label>
+    <PlantWorkSpeed.description>Velocidade que esta pessoa tem para plantas e colher plantas.</PlantWorkSpeed.description>
+    
+</LanguageData>

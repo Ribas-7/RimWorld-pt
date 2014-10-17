@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <DoorKey.label>chave da porta</DoorKey.label>
+    
+    <Puddle_Fuel.label>poça de combustível</Puddle_Fuel.label>
+    <Puddle_Fuel.description>Arde no chão.</Puddle_Fuel.description>
+    
+    <DropPodIncoming.label>Vagem (a chegar)</DropPodIncoming.label>
+    
+    <DropPod.label>vagem</DropPod.label>
+    
+    <Fire.label>fogo</Fire.label>
+    
+    <Spark.label>faísca</Spark.label>
+    
+</LanguageData>

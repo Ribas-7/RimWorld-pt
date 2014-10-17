@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Proibido - colonos não vão interagir com isto.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Não Proibido - colonos podem interagir com isto.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Alternar electricidade</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Alterna a corrente eléctrica entre ligada/desligada.</CommandTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Reconnectar</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Tenta conectar a outra corrente eléctrica dentro do raio de connecção. Isto é útil se estiver ligado a uma rede sem energia mas houver outra com energia próximo.</CommandTryReconnectDesc>
+
+
+  <CommandGatherSpotToggleLabel>Ponto de encontro</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Ativo - colonos agrupam-se a volta deste objecto.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inativo - colonos não se agrupam a volta deste objecto.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Alistar</CommandDraftLabel>
+  <CommandUndraftLabel>Desalistar</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Alternar para alistamento militar.\n\nPessoas alistadas recebem ordens e lutam. Eles não irão trabalhar, comer ou descansar.</CommandToggleDraftDesc>
+  <IsIncapped>{0} está incapacitado.</IsIncapped>
+  
+  
+  <CommandCancelConstructionLabel>Cancelar</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Cancela esta construção.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Levantar da cama</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>O colono levanta-se da cama.</CommandGetOutOfBedDesc>
+  
+  <CommandBedSetOwnerLabel>Designar dono</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>O colono específico passa a ser dono desta cama.</CommandBedSetOwnerDesc>
+  <BedAssign>Designar</BedAssign>
+  <CommandBedSetForPrisonersLabel>Designar para prisioneiros</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>As camas neste quarto passam a ser usadas por prisioneiros.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Não é possível designar camas ao ar livre para uso dos prisioneiros.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Designar para colonos</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>As camas neste quarto passao a ser usadas por colonos.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Designar como médica</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Esta cama passa a ser usada para fins médicos.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Designar como não médica</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Esta cama passa a ser usada para fins não médicos.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Ativar o modo prisioneiro afeta o quarto todo (visto que os prisioneiros e os colonos não podem dormir no mesmo quarto).\n\nEstas pessoas vão deixar de ter cama:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Desativar o modo prisioneiro afeta o quarto todo (visto que os prisioneiros e os colonos não podem dormir no mesmo quarto).\n\nEstas pessoas vão deixar de ter cama:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Tens a certeza que pretendes continuar?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Começa a contagem para a detonação.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonar</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Renomeia esta zona.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Renomear</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Esconde/Mostra esta zona.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Esconder</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Mostrar</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Apaga esta zona.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Apagar</CommandDeleteZoneLabel>
+  
+  
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Designar alvo forçado</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Designa o alvo que esta torre de tiro tem de atacar continuamente enquanto conseguir.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Parar ataque forçado</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Pára o ataque forçado e permite que a torre de tiro dispare como desejar.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Não está em ataque forçado.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Alvo além do alcance máximo.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Alvo abaixo do alcance mínimo.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Lançar nave</CommandShipLaunch>
+  <CommandShipLaunchDesc>Começa a sequência do lançamento da nave com a configuração atual.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Mostrar relatório de lançamento</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Mostra um relatório sobre as capacdades de lançamento da nave.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Ejetar cápsula</CommandPodEject>
+  <CommandPodEjectDesc>Acorda o colono e ejeta-o.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Não contém ninguém.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorLock>Alternar fechadura</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Tranca ou destranca uma porta. Portas trancadas não abrem para ninguém.</CommandToggleDoorLockDesc>
+
+  
+</LanguageData>

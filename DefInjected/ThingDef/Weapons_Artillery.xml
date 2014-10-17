@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ================== Incendiary mortar ================== -->
+    
+    <Bullet_MortarIncendiary.label>cápsula incendiária de morteiro</Bullet_MortarIncendiary.label>
+    
+    <Artillery_MortarIncendiary.label>morteiro encendiário</Artillery_MortarIncendiary.label>
+    <Artillery_MortarIncendiary.description>Lançador morteiro incendiário. Arremessa bombas incendiárias. Com pouca precisão mas de grande alcance.</Artillery_MortarIncendiary.description>
+    
+    <!-- ================= Bomb mortar ================= -->
+    
+    <Bullet_MortarBomb.label>cápsula explosiva de morteiro</Bullet_MortarBomb.label>
+    
+    <Artillery_MortarBomb.label>morteiro explosivo</Artillery_MortarBomb.label>
+    <Artillery_MortarBomb.description>Lançador morteiro. Arremessa bombas. Com pouca precisão mas de grande alcance.</Artillery_MortarBomb.description>
+    
+    <!-- ================= EMP mortar ================= -->
+    
+    <Bullet_MortarEMP.label>Cápsula de EMP</Bullet_MortarEMP.label>
+    
+    <Artillery_MortarEMP.label>morteiro EMP</Artillery_MortarEMP.label>
+    <Artillery_MortarEMP.description>Lançador morteiro. Arremessa bombas EMP. Com pouca precisão mas de grande alcance.</Artillery_MortarEMP.description>
+    
+</LanguageData>

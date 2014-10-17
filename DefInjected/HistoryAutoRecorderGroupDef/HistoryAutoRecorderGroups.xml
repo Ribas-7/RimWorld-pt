@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Wealth.label>riqueza</Wealth.label>
+    
+    <Population.label>população</Population.label>
+    
+    <ColonistMood.label>estado de espírito da colónia</ColonistMood.label>
+    
+  	  <!--<li>ColonistFear</li>-->
+    
+</LanguageData>

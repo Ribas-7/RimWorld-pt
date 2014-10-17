@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AteRawFood.label>comeu comida crua</AteRawFood.label>
+    <AteRawFood.description>Tive de comer comida crua. Não podemos cozinhá-la, ou pelo menos sintetizar alguma pasta nutritiva?</AteRawFood.description>
+    
+    <AteNutrientPasteMeal.label>comeu pasta nutritiva</AteNutrientPasteMeal.label>
+    <AteNutrientPasteMeal.description>Tive de comer pasta nutritiva. Eu sei que me mantém vivo, mas ninguém quer engolir aquilo.</AteNutrientPasteMeal.description>
+    
+    <AteFineMeal.label>comeu refeição boa</AteFineMeal.label>
+    <AteFineMeal.description>Comi uma refeição mesmo saborosa. Yum!</AteFineMeal.description>
+    
+    <AteLavishMeal.label>comeu refeição requintadaate lavish meal</AteLavishMeal.label>
+    <AteLavishMeal.description>Aquela refeição extravagante estava incrível. Alimentou o meu corpo e a minha alma.</AteLavishMeal.description>
+    
+    <!-- =========== Cannibalism ===============-->
+    
+    <AteHumanoidMeatDirect.label>canibalismo cru</AteHumanoidMeatDirect.label>
+    <AteHumanoidMeatDirect.description>Comi a carne de outro humano, crua, como um animal. Isto é um pesadelo.</AteHumanoidMeatDirect.description>
+    
+    <AteHumanoidMeatAsIngredient.label>canibalismo cozinhado</AteHumanoidMeatAsIngredient.label>
+    <AteHumanoidMeatAsIngredient.description>Comi uma refeição feita com carne de outro humano. Isto é horrível.</AteHumanoidMeatAsIngredient.description>
+    
+    <AteHumanoidMeatDirectCannibal.label>canibalismo cru</AteHumanoidMeatDirectCannibal.label>
+    <AteHumanoidMeatDirectCannibal.description>Comi a carnde de outro humano, crua, como um animal. Estava tão... suculenta.</AteHumanoidMeatDirectCannibal.description>
+    
+    <AteHumanoidMeatAsIngredientCannibal.label>canibalismo cozinhado</AteHumanoidMeatAsIngredientCannibal.label>
+    <AteHumanoidMeatAsIngredientCannibal.description>Comi uma refeição feita com carne de outro humano. Tão prazeroso. Quem me dera ter umas favas e um bom vinho tinto.</AteHumanoidMeatAsIngredientCannibal.description>
+    
+    <ButcheredHumanoidCorpse.label>chacinou humano</ButcheredHumanoidCorpse.label>
+    <ButcheredHumanoidCorpse.description>Eu chacinei alguém como um animal.</ButcheredHumanoidCorpse.description>
+    
+    <AteWithoutTable.label>comeu no chão</AteWithoutTable.label>
+    <AteWithoutTable.description>Tive de comer uma refeição no chão. Não podemos arranjar uma mesa por estes lados?</AteWithoutTable.description>
+    
+    <!-- Combat -->
+    
+    <ObservedLayingCorpse.label>viu um corpo</ObservedLayingCorpse.label>
+    <ObservedLayingCorpse.description>Vi um corpo estendido no chão.</ObservedLayingCorpse.description>
+    
+    <ObservedLayingRottingCorpse.label>viu corpo apodrecer</ObservedLayingRottingCorpse.label>
+    <ObservedLayingRottingCorpse.description>Vi um corpo a apodrecer no chão. Foi nojento.</ObservedLayingRottingCorpse.description>
+    
+    <WitnessedDeathAlly.label>assistiu à morte de um aliado</WitnessedDeathAlly.label>
+    <WitnessedDeathAlly.description>Vi um dos nossos morrer. Num segundo estavam vivos, e sem vida no outro.</WitnessedDeathAlly.description>
+    
+    <WitnessedDeathStranger.label>assistiu à morte de um estranho</WitnessedDeathStranger.label>
+    <WitnessedDeathStranger.description>Vi alguém morrer. Num segundo estavam vivos, e mortos no outro.</WitnessedDeathStranger.description>
+    
+    <WitnessedDeathStrangerBloodlust.label>assistiu à morte de um estranho</WitnessedDeathStrangerBloodlust.label>
+    <WitnessedDeathStrangerBloodlust.description>Vi alguém morrer! Foi intenso!</WitnessedDeathStrangerBloodlust.description>
+    
+    <KilledHumanoidBloodlust.label>matou alguém</KilledHumanoidBloodlust.label>
+    <KilledHumanoidBloodlust.description>Matei alguém! Que adrenalina!</KilledHumanoidBloodlust.description>
+    
+    <BattleWounded.label>ferido</BattleWounded.label>
+    <BattleWounded.description>É o meu sangue! Fiquei ferido num combate!</BattleWounded.description>
+    
+    <NewColonyOptimism.label>otimismo da nova colónia</NewColonyOptimism.label>
+    <NewColonyOptimism.description>Acabámos de aterrar aqui. É uma situação difícil, mas estou empolgado por estar a fundar uma nova colónia.</NewColonyOptimism.description>
+    
+    <NewColonyHope.label>esperança da nova colónia</NewColonyHope.label>
+    <NewColonyHope.description>Estou a habituar-me a isto, mas ainda é uma situação empolgante. Espero que isto resulte...</NewColonyHope.description>
+    
+    <SleptOutside.label>dormiu na rua</SleptOutside.label>
+    <SleptOutside.description>Tive de dormir na rua sem proteção nenhuma.</SleptOutside.description>
+    
+    <SleptOnGround.label>dormiu no chão</SleptOnGround.label>
+    <SleptOnGround.description>Tive de dormir no chão como um animal.</SleptOnGround.description>
+    
+    <KnowPrisonerBeaten.label>um prisioneiro foi espancado</KnowPrisonerBeaten.label>
+    <KnowPrisonerBeaten.description>Estão a bater no prisioneiro.</KnowPrisonerBeaten.description>
+    
+    <KnowPrisonerSold.label>um prisioneiro foi vendido</KnowPrisonerSold.label>
+    <KnowPrisonerSold.description>Esta colónia vendeu um prisioneiro para a escravidão. É um pensamento preocupante.</KnowPrisonerSold.description>
+    
+    <KnowPrisonerExecuted.label>um prisioneiro foi executado</KnowPrisonerExecuted.label>
+    <KnowPrisonerExecuted.description>Um prisioneiro foi morto a sangue-frio. Esta colónia parece mais malvada a cada dia que passa.</KnowPrisonerExecuted.description>
+    
+    <JustImprisoned.label>aprisionado</JustImprisoned.label>
+    <JustImprisoned.description>Fui posto na prisão. Tenho de manter-me calmo e lidar com isto.</JustImprisoned.description>
+    
+    <PrisonerFriendlyChat.label>convencido pelo guarda</PrisonerFriendlyChat.label>
+    <PrisonerFriendlyChat.description>Eu e aquele guarda tivemos uma conversa sobre a colónia. Parece ser um bom lugar...</PrisonerFriendlyChat.description>
+    
+    <PrisonerBeatenMild.label>espancado pelo guarda</PrisonerBeatenMild.label>
+    <PrisonerBeatenMild.description>Aquele guarda deu-me uma porrada. Não quebrou nada mas, porra, dói.</PrisonerBeatenMild.description>
+    
+    <PrisonerBeatenVicious.label>espancado cruelmente pelo guarda</PrisonerBeatenVicious.label>
+    <PrisonerBeatenVicious.description>Aquele guarda deu-me uma coça de porrada valente. Mais um pouco e vou desta 'pra melhor...</PrisonerBeatenVicious.description>
+    
+    <SocialTalk.label>teve conversa social</SocialTalk.label>
+    <SocialTalk.description>Tive uma boa conversa com alguém.</SocialTalk.description>
+    
+    <AbrasiveTalk.label>teve uma conversa desagradável</AbrasiveTalk.label>
+    <AbrasiveTalk.description>Alguém foi rude para mim. A pior parte, é que essa pessoa nem se apercebeu disso...</AbrasiveTalk.description>
+    
+    <GreenThumbHappy.label>plantou uma planta</GreenThumbHappy.label>
+    <GreenThumbHappy.description>O que o mundo precisa é de mais plantas!</GreenThumbHappy.description>
+    
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Sombrio</Dark>
+  <Lit>Iluminado</Lit>
+  <LitBrightly>Luzente</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Nenhuma</NoneQuality>
+  <PlantQuality>Plant</PlantQuality>
+  <RawQuality>Crua</RawQuality>
+  <MealAwfulQuality>Terrível</MealAwfulQuality>
+  <MealSimpleQuality>Simples</MealSimpleQuality>
+  <MealFineQuality>Ótima</MealFineQuality>
+  <MealLavishLavish>Extravagante</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Nunca come</NeverEats>
+  <Omnivorous>Omnívoro</Omnivorous>
+  <Herbivorous>Herbívoro</Herbivorous>
+  <Carnivorous>Carnívoro</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Indeciso</Unspecified>
+  <Always>Permitir</Always>
+  <Never>Não permitir</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>super barato</PriceTypeVeryCheap>
+  <PriceTypeCheap>barato</PriceTypeCheap>
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeExpensive>caro</PriceTypeExpensive>
+  <PriceTypeExorbitant>exorbitante</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>General</StatCategory_General>
+  <StatCategory_GeneralNonPawn>General</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Armadura</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primário</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Trabalho</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Combate</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Social</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Diversos</StatCategory_PawnMisc>
+  <StatCategory_Building>Construção</StatCategory_Building>
+  
+  <EquippedStatOffsets>Compensação quando equipado</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Modificadores quando é feito equipamento apartir disto</StuffOfEquipmentStatModifiers>
+  
+</LanguageData>
